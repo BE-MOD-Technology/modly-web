@@ -1,0 +1,189 @@
+{
+  "Index": {
+    "meta_title": "Modly.me - Çok Dilli Sosyal Medya Etkileşim Takip ve Raporlama Yazılımı",
+    "meta_description": "Ajanslar ve markalar için gerçek zamanlı sosyal medya etkileşim takibi, merkezi raporlama ve alarm sistemi."
+  },
+  "Navbar": {
+    "sign_in": "Giriş Yap",
+    "sign_up": "Kayıt Ol",
+    "product": "Ürün",
+    "docs": "Dokümantasyon",
+    "blog": "Blog",
+    "community": "Topluluk",
+    "company": "Şirket",
+    "features": "Özellikler",
+    "pricing": "Fiyatlandırma",
+    "faq": "SSS",
+    "contact": "İletişim"
+  },
+  "Hero": {
+    "follow_twitter": "@ModlyMe'yi Twitter'da takip edin",
+    "title": "Modly.me Çok Dilli Sosyal Medya Etkileşim Takip ve Raporlama Yazılımı",
+    "description": "Ajanslar ve markalar için gerçek zamanlı sosyal medya etkileşim takibi, merkezi raporlama ve alarm sistemi. Çoklu dil desteğiyle global pazara uygun, güvenli ve otomatik raporlama özellikli profesyonel çözüm.",
+    "primary_button": "Demo Talep Et",
+    "secondary_button": "Daha Fazla Bilgi"
+  },
+  "Sponsors": {
+    "title": "Desteklenen Platformlar"
+  },
+  "Features": {
+    "section_subtitle": "Özellikler",
+    "section_title": "Sosyal Medya Yönetiminin Tam Potansiyelini Keşfedin",
+    "section_description": "Modly.me, ajanslar ve markalar için sosyal medya hesaplarındaki etkileşimleri gerçek zamanlı takip eder, merkezi olarak loglar, analiz eder ve otomatik raporlar sunar. Anahtar kelime bazlı alarm sistemi ve çoklu dil desteğiyle global erişim sağlar.",
+    "feature1_title": "Çoklu Sosyal Medya Hesap Bağlantısı",
+    "feature2_title": "Gerçek Zamanlı Etkileşim Takibi",
+    "feature3_title": "Merkezi Loglama ve Güçlü Arama",
+    "feature4_title": "Grafiksel Dashboard ve Görselleştirme",
+    "feature5_title": "Otomatik ve Kişiselleştirilebilir Raporlama",
+    "feature6_title": "Anahtar Kelime Bazlı Alarm ve Uyarı Sistemi",
+    "feature7_title": "Çoklu Dil Desteği (TR, EN, DE, FR, IT)",
+    "feature8_title": "Güvenli ve GDPR/KVKK Uyumlu Altyapı",
+    "feature_description": "Gerçek zamanlı takip, otomatik raporlama, alarm sistemi ve çoklu dil desteğiyle profesyonel sosyal medya yönetimi."
+  },
+  "Benefits": {
+    "section_title": "Faydalar",
+    "benefit1": "Operasyonel verimlilik ve zaman tasarrufu",
+    "benefit2": "Kriz yönetimi ve itibar kontrolü",
+    "benefit3": "Stratejik karar desteği",
+    "benefit4": "Global erişilebilirlik ve lokalize kullanıcı deneyimi",
+    "benefit5": "Manuel veri toplama ve sınıflandırma süreçlerinin otomasyonu",
+    "benefit6": "Kritik içeriklerde hızlı aksiyon ve ekip odaklanması"
+  },
+  "TargetAudience": {
+    "section_title": "Hedef Kitle",
+    "audience1": "Dijital Pazarlama ve Reklam Ajansları",
+    "audience2": "Marka ve Kurumsal İletişim Ekipleri",
+    "audience3": "Sosyal Medya Uzmanları ve Topluluk Yöneticileri",
+    "audience4": "Uluslararası Sosyal Medya ve Analiz Şirketleri",
+    "audience5": "Medya Takip ve Kriz Yönetimi Birimleri"
+  },
+  "FAQ": {
+    "section_title": "Sıkça Sorulan Sorular",
+    "section_description": "Modly.me hakkında sıkça sorulan soruların yanıtlarını burada bulabilirsiniz.",
+    "q1": "Hangi sosyal medya platformları destekleniyor?",
+    "a1": "Instagram, Facebook, Twitter ve LinkedIn gibi popüler platformlar desteklenmektedir.",
+    "q2": "Raporlar nasıl iletiliyor?",
+    "a2": "Raporlar, belirlediğiniz e-posta adresine otomatik olarak gönderilir.",
+    "q3": "Güvenlik ve gizlilik nasıl sağlanıyor?",
+    "a3": "Tüm veriler AES-256 ile şifrelenir, GDPR ve KVKK uyumluluğu sağlanır.",
+    "q4": "Çoklu dil desteği nasıl çalışıyor?",
+    "a4": "Arayüz Türkçe ve İngilizce başta olmak üzere birden fazla dilde kullanılabilir."
+  },
+  "CTA": {
+    "title": "Başlamaya hazır mısınız?",
+    "description": "Sosyal medya yönetimi için Modly.me kullanan binlerce ajans ve markaya katılın.",
+    "button_text": "Demo Talep Et"
+  },
+  "Footer": {
+    "product": "Ürün",
+    "docs": "Dokümantasyon",
+    "blog": "Blog",
+    "community": "Topluluk",
+    "company": "Şirket",
+    "terms_of_service": "Kullanım Şartları",
+    "privacy_policy": "Gizlilik Politikası",
+    "designed_by": "<author>Modly.me</author> tarafından tasarlandı.",
+    "copyright": "© 2024 Modly.me. Tüm hakları saklıdır.",
+    "website": "modly.me"
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "Bu işlemi gerçekleştirmek için yeterli izniniz yok"
+  },
+  "SignIn": {
+    "meta_title": "Giriş yap",
+    "meta_description": "Kullanıcı dostu giriş sürecimizle hesabınıza sorunsuz bir şekilde giriş yapın."
+  },
+  "SignUp": {
+    "meta_title": "Kayıt ol",
+    "meta_description": "Sezgisel kayıt sürecimizle kolayca hesap oluşturun."
+  },
+  "DashboardLayout": {
+    "home": "Ana Sayfa",
+    "todos": "Görevler",
+    "members": "Üyeler",
+    "billing": "Faturalama",
+    "settings": "Ayarlar"
+  },
+  "Dashboard": {
+    "meta_title": "Modly.me Dashboard",
+    "meta_description": "Gerçek zamanlı takip ve analitik ile profesyonel sosyal medya yönetimi dashboard'u."
+  },
+  "DashboardIndex": {
+    "title_bar": "Dashboard",
+    "title_bar_description": "Dashboard'unuza hoş geldiniz",
+    "message_state_title": "Başlayalım",
+    "message_state_description": "Bu sayfayı <code>dashboard/page.tsx</code> dosyasını düzenleyerek özelleştirebilirsiniz",
+    "message_state_button": "Demo Talep Et",
+    "message_state_alternative": "Aynı stack ile daha fazla özellik mi istiyorsunuz? <url></url> deneyin."
+  },
+  "UserProfile": {
+    "title_bar": "Kullanıcı Profili",
+    "title_bar_description": "Kullanıcı profilinizi görüntüleyin ve yönetin"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Organizasyon Yönetimi",
+    "title_bar_description": "Organizasyonunuzu yönetin"
+  },
+  "Billing": {
+    "title_bar": "Faturalama",
+    "title_bar_description": "Faturalama ve aboneliğinizi yönetin",
+    "current_section_title": "Mevcut Plan",
+    "current_section_description": "Ödeme planınızı gereksinimlerinize en uygun şekilde ayarlayın",
+    "manage_subscription_button": "Aboneliği Yönet"
+  },
+  "BillingOptions": {
+    "current_plan": "Mevcut Plan",
+    "upgrade_plan": "Başlayın"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "Ödeme Onayı",
+    "message_state_title": "Ödeme başarılı",
+    "message_state_description": "Ödemeniz başarıyla işlendi. Satın alımınız için teşekkür ederiz!",
+    "message_state_button": "Faturalamaya Geri Dön"
+  },
+  "DataTable": {
+    "no_results": "Sonuç bulunamadı."
+  },
+  "Todos": {
+    "title_bar": "Görev Listesi",
+    "title_bar_description": "Görev listenizi görüntüleyin ve yönetin",
+    "add_todo_button": "Yeni görev"
+  },
+  "TodoTableColumns": {
+    "open_menu": "Menüyü aç",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "title_header": "Başlık",
+    "message_header": "Mesaj",
+    "created_at_header": "Oluşturulma tarihi"
+  },
+  "AddTodo": {
+    "title_bar": "Görev Ekle",
+    "add_todo_section_title": "Yeni bir görev oluşturun",
+    "add_todo_section_description": "Yeni bir görev oluşturmak için aşağıdaki formu doldurun"
+  },
+  "EditTodo": {
+    "title_bar": "Görevi düzenle",
+    "edit_todo_section_title": "Görevi değiştir",
+    "edit_todo_section_description": "Görevi düzenlemek için aşağıdaki formu doldurun"
+  },
+  "TodoForm": {
+    "title_label": "Başlık",
+    "title_description": "Göreviniz için açıklayıcı bir başlık girin.",
+    "message_title": "Mesaj",
+    "message_description": "Göreviniz için detaylı bir mesaj girin.",
+    "submit_button": "Gönder"
+  },
+  "Pricing": {
+    "section_subtitle": "Fiyatlandırma",
+    "section_title": "İşletmeniz için Mükemmel Planı Seçin",
+    "section_description": "Her ölçekten ajans ve marka için esnek fiyatlandırma planları.",
+    "button_text": "Başlayın",
+    "free_plan_name": "Başlangıç",
+    "premium_plan_name": "Profesyonel",
+    "enterprise_plan_name": "Kurumsal",
+    "free_plan_description": "Küçük ekipler için",
+    "premium_plan_description": "Ajanslar ve markalar için",
+    "enterprise_plan_description": "Büyük organizasyonlar için"
+  }
+} 
