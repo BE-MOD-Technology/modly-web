@@ -19,7 +19,7 @@ export const LocaleSwitcher = () => {
   const locale = useLocale();
 
   const handleChange = (value: string) => {
-    router.push(pathname, { locale: value });
+    router.push(pathname, { locale: value, scroll: false });
     router.refresh();
   };
 

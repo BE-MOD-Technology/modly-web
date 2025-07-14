@@ -26,6 +26,29 @@ export default withSentryConfig(
       reactStrictMode: true,
       experimental: {
         serverComponentsExternalPackages: ['@electric-sql/pglite'],
+        // Optimize webpack cache for large strings
+        webpackBuildWorker: true,
+      },
+      // Add webpack optimization for cache warnings
+      webpack: (config, { isServer: _isServer }) => {
+        // Optimize large string handling in webpack cache
+        config.optimization = {
+          ...config.optimization,
+          splitChunks: {
+            ...config.optimization.splitChunks,
+            cacheGroups: {
+              ...config.optimization.splitChunks?.cacheGroups,
+              // Separate locale data to reduce serialization impact
+              locales: {
+                test: /[\\/]locales[\\/]/,
+                name: 'locales',
+                chunks: 'all',
+                priority: 30,
+              },
+            },
+          },
+        };
+        return config;
       },
     }),
   ),
@@ -42,8 +65,8 @@ export default withSentryConfig(
     // For all available options, see:
     // https://docs.sentry.io/platforms/javascript/guides/nextjs/manual-setup/
 
-    // Upload a larger set of source maps for prettier stack traces (increases build time)
-    widenClientFileUpload: true,
+    // Optimize source map handling to reduce cache warnings
+    widenClientFileUpload: process.env.NODE_ENV === 'production',
 
     // Route browser requests to Sentry through a Next.js rewrite to circumvent ad-blockers.
     // This can increase your server load as well as your hosting bill.

@@ -1,0 +1,227 @@
+{
+  "Index": {
+    "meta_title": "Modly.me - Logiciel Multilingue de Suivi et de Reporting d'Engagement sur les Réseaux Sociaux",
+    "meta_description": "Suivi en temps réel des interactions sur les réseaux sociaux, rapports centralisés et système d'alerte pour les agences et les marques."
+  },
+  "Navbar": {
+    "sign_in": "Se Connecter",
+    "sign_up": "S'inscrire",
+    "product": "Produit",
+    "docs": "Documentation",
+    "blog": "Blog",
+    "community": "Communauté",
+    "company": "Entreprise",
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "follow_twitter": "Suivez @ModlyMe sur Twitter",
+    "title": "Que Dit-on de Votre Marque sur les Réseaux Sociaux ? Vous Allez Enfin Prendre le Contrôle.",
+    "description": "Modly.me capture instantanément chaque commentaire, retour et signal de crise concernant votre marque. Il analyse automatiquement, génère des rapports et vous garde une longueur d'avance. La communication digitale n'est plus laissée au hasard."
+  },
+  "About": {
+    "section_title": "Qui Sommes-Nous",
+    "main_title": "Votre Assistant Intelligent d'Écoute Sociale Qui Protège la Réputation de Votre Marque.",
+    "description": "Conçu pour les agences, marques et équipes médias, Modly.me agrège les interactions des réseaux sociaux sur une plateforme centralisée, les analyse intelligemment et vous livre des rapports exploitables. Avec la surveillance en temps réel, la visualisation intuitive, les systèmes d'alerte automatisés et le support multilingue, il élève votre présence digitale au plus haut niveau."
+  },
+  "Sponsors": {
+    "title": "Plateformes Supportées"
+  },
+  "Features": {
+    "section_subtitle": "Nos Capacités",
+    "section_title": "Prenez le Contrôle Total de la Communication Digitale",
+    "section_description": "Surveillez les interactions des réseaux sociaux en temps réel, recevez des analyses automatisées et gérez proactivement les crises potentielles.",
+    "feature1_title": "Surveillance en Temps Réel",
+    "feature1_description": "Nous détectons les commentaires dès leur publication, même avant que vous les voyiez. Pendant que vos concurrents s'appuient sur des rapports manuels, vous restez en avance avec un suivi instantané.",
+    "feature2_title": "Transformez les Données d'Interaction en Insights",
+    "feature2_description": "Graphiques, tableaux, filtres intelligents... Renforcez votre processus de prise de décision grâce à une visualisation complète des données.",
+    "feature3_title": "Rapports Automatisés",
+    "feature3_description": "Tenez votre équipe informée avec des rapports quotidiens détaillés par email. Arrêtez de passer du temps à créer des rapports—laissez les rapports venir à vous.",
+    "feature4_title": "Système d'Alerte Intelligent",
+    "feature4_description": "Des mots-clés comme 'plainte', 'terrible' ou 'scandale' détectés ? Le système vous notifie instantanément. Traitez les problèmes avant qu'ils ne dégénèrent en crises.",
+    "feature5_title": "Support Multilingue",
+    "feature5_description": "Français, anglais, allemand et plus encore. Une solution globale pour les marques globales.",
+    "feature6_title": "Sécurité de Niveau Entreprise",
+    "feature6_description": "Conformité RGPD/KVKK et confidentialité totale des données. Modly.me est conçu pour les organisations sérieuses comme la vôtre.",
+    "feature_description": "Gestion professionnelle des réseaux sociaux avec surveillance en temps réel, rapports automatisés, systèmes d'alerte et support multilingue."
+  },
+  "Benefits": {
+    "section_title": "Avantages Clés",
+    "benefit1": "Efficacité opérationnelle renforcée et gain de temps significatif",
+    "benefit2": "Gestion proactive des crises et protection de la réputation",
+    "benefit3": "Support à la prise de décision stratégique",
+    "benefit4": "Accessibilité mondiale avec expérience utilisateur localisée",
+    "benefit5": "Automatisation complète de la collecte et classification manuelle des données",
+    "benefit6": "Réponse rapide au contenu critique et concentration renforcée de l'équipe"
+  },
+  "TargetAudience": {
+    "section_title": "Pour Qui Est-ce Conçu ?",
+    "audience1": "Agences gérant plusieurs comptes clients",
+    "audience2": "Responsables de marque déterminés à protéger la réputation digitale",
+    "audience3": "Professionnels du marketing recherchant des insights exploitables des interactions utilisateurs",
+    "audience4": "Équipes de veille médiatique et de prévention de crise"
+  },
+  "MissingOut": {
+    "section_title": "Que Ratez-Vous ?",
+    "main_question": "Quelles conversations se déroulent autour de votre marque lorsque vous ne surveillez pas ?",
+    "question1": "Un client a-t-il exprimé sa déception ?",
+    "question2": "Le post de votre concurrent a-t-il reçu plus d'engagement que le vôtre ?",
+    "question3": "Une crise silencieuse est-elle devenue un sujet tendance ?",
+    "conclusion": "Modly.me capture ces développements pour vous. Vous décidez simplement comment réagir."
+  },
+  "CuriosityQuestions": {
+    "section_title": "Capturez les Interactions",
+    "question1": "Combien de commentaires négatifs avez-vous reçus aujourd'hui ?",
+    "question2": "Quel contenu a généré le plus d'engagement ?",
+    "question3": "Que vous coûterait un retard de 5 minutes dans la réponse à une crise ?",
+    "conclusion": "Découvrez ce qui vous échappe avec Modly.me. Gérez ce que vous découvrez."
+  },
+  "DataInsights": {
+    "section_title": "Données vers Décisions",
+    "insight1": "72% des commentaires sont publiés après 21h00.",
+    "insight2": "Le contenu négatif est principalement partagé le lundi matin.",
+    "insight3": "Un client a publié la même plainte sur 3 posts différents.",
+    "conclusion1": "Ces insights seront exclusivement vôtres à exploiter.",
+    "conclusion2": "Avec Modly.me, vos données deviennent votre avantage concurrentiel."
+  },
+  "CrisisDrama": {
+    "section_title": "Analytics de Crise",
+    "scenario1": "Imaginez découvrir une plainte tendance 6 heures après qu'elle ait commencé.",
+    "scenario2": "Un influenceur publie du contenu négatif sur votre marque, et vous l'ignorez.",
+    "reality": "Les crises se déroulent en minutes, mais la récupération prend des semaines.",
+    "solution1": "Modly.me surveille chaque mention.",
+    "solution2": "Il identifie les signaux de crise avant vous."
+  },
+  "DecisionSupport": {
+    "section_title": "Insights",
+    "question1": "Besoin de données convaincantes pour votre présentation hebdomadaire ?",
+    "question2": "Devez-vous démontrer l'impact de campagne à la direction ?",
+    "question3": "Recherchez-vous des preuves pour soutenir vos KPI ?",
+    "conclusion": "Modly.me n'est pas seulement un outil de surveillance—c'est votre partenaire de prise de décision stratégique."
+  },
+  "ClosingStatements": {
+    "statement1": "Si vous voulez des insights exploitables, pas seulement plus de données, vous avez trouvé la bonne solution.",
+    "statement2": "Transformez des données écrasantes en décisions stratégiques avec Modly.me.",
+    "statement3": "Saisissez les opportunités, pas seulement les commentaires.",
+    "statement4": "Les gens parlent. Nous écoutons. Vous dirigez."
+  },
+  "Contact": {
+    "section_title": "Contact",
+    "description": "Contactez-nous et laissez-nous répondre à vos questions.",
+    "email_label": "E-mail"
+  },
+  "FAQ": {
+    "section_title": "Questions Fréquemment Posées",
+    "section_description": "Trouvez les réponses aux questions courantes sur Modly.me.",
+    "q1": "Quelles plateformes de réseaux sociaux sont supportées ?",
+    "a1": "Nous supportons les plateformes populaires incluant Instagram, Facebook avec une intégration de données en temps réel sans faille.",
+    "q2": "Comment les rapports sont-ils livrés ?",
+    "a2": "Les rapports sont automatiquement envoyés à votre adresse email désignée selon votre planning préféré.",
+    "q3": "Comment la sécurité et la confidentialité sont-elles assurées ?",
+    "a3": "Toutes les données sont protégées et la conformité RGPD/KVKK complète est maintenue.",
+    "q4": "Comment fonctionne le support multilingue ?",
+    "a4": "L'interface de la plateforme est disponible en plusieurs langues, avec un support principal pour le turc, l'anglais et le français."
+  },
+  "Footer": {
+    "product": "Produit",
+    "docs": "Documentation",
+    "blog": "Blog",
+    "community": "Communauté",
+    "company": "Entreprise",
+    "terms_of_service": "Conditions de Service",
+    "privacy_policy": "Politique de Confidentialité",
+    "designed_by": "Conçu par <author>Modly.me</author>.",
+    "copyright": "© 2024 Modly.me. Tous droits réservés.",
+    "website": "modly.me"
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "Vous n'avez pas les permissions suffisantes pour effectuer cette action"
+  },
+  "SignIn": {
+    "meta_title": "Se Connecter",
+    "meta_description": "Accédez à votre compte en toute transparence avec notre processus d'authentification convivial."
+  },
+  "SignUp": {
+    "meta_title": "S'inscrire",
+    "meta_description": "Créez votre compte sans effort grâce à notre processus d'inscription intuitif."
+  },
+  "DashboardLayout": {
+    "home": "Accueil",
+    "todos": "Tâches",
+    "members": "Membres",
+    "billing": "Facturation",
+    "settings": "Paramètres"
+  },
+  "Dashboard": {
+    "meta_title": "Tableau de Bord Modly.me",
+    "meta_description": "Tableau de bord professionnel de gestion des réseaux sociaux avec surveillance en temps réel et analyses complètes."
+  },
+  "DashboardIndex": {
+    "title_bar": "Tableau de Bord",
+    "title_bar_description": "Bienvenue sur votre tableau de bord",
+    "message_state_title": "Commençons",
+    "message_state_description": "Vous pouvez personnaliser cette page en éditant le fichier <code>dashboard/page.tsx</code>",
+    "message_state_button": "Demander une Démo",
+    "message_state_alternative": "Vous voulez plus de fonctionnalités utilisant la même pile technologique ? Essayez <url></url>."
+  },
+  "UserProfile": {
+    "title_bar": "Profil Utilisateur",
+    "title_bar_description": "Visualisez et gérez les paramètres de votre profil utilisateur"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Gestion d'Organisation",
+    "title_bar_description": "Gérez les paramètres et préférences de votre organisation"
+  },
+  "Billing": {
+    "title_bar": "Facturation",
+    "title_bar_description": "Gérez vos préférences de facturation et d'abonnement",
+    "current_section_title": "Plan Actuel",
+    "current_section_description": "Personnalisez votre plan de paiement pour qu'il corresponde parfaitement à vos exigences",
+    "manage_subscription_button": "Gérer l'Abonnement"
+  },
+  "BillingOptions": {
+    "current_plan": "Plan Actuel",
+    "upgrade_plan": "Commencer"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "Confirmation de Paiement",
+    "message_state_title": "Paiement Réussi",
+    "message_state_description": "Votre paiement a été traité avec succès. Merci pour votre achat !",
+    "message_state_button": "Retourner à la Facturation"
+  },
+  "DataTable": {
+    "no_results": "Aucun résultat trouvé."
+  },
+  "Todos": {
+    "title_bar": "Liste de Tâches",
+    "title_bar_description": "Visualisez et gérez votre liste de tâches",
+    "add_todo_button": "Nouvelle Tâche"
+  },
+  "TodoTableColumns": {
+    "open_menu": "Ouvrir le menu",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "title_header": "Titre",
+    "message_header": "Message",
+    "created_at_header": "Créé Le"
+  },
+  "AddTodo": {
+    "title_bar": "Ajouter une Tâche",
+    "add_todo_section_title": "Créer une Nouvelle Tâche",
+    "add_todo_section_description": "Complétez le formulaire ci-dessous pour créer une nouvelle tâche"
+  },
+  "EditTodo": {
+    "title_bar": "Modifier la Tâche",
+    "edit_todo_section_title": "Modifier la Tâche",
+    "edit_todo_section_description": "Complétez le formulaire ci-dessous pour mettre à jour la tâche"
+  },
+  "TodoForm": {
+    "title_label": "Titre",
+    "title_description": "Entrez un titre descriptif pour votre tâche.",
+    "message_title": "Message",
+    "message_description": "Entrez une description détaillée pour votre tâche.",
+    "submit_button": "Soumettre"
+  }
+}

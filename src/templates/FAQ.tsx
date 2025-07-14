@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+
 import { Section } from '@/features/landing/Section';
 
 export const FAQ = () => {
@@ -22,15 +23,19 @@ export const FAQ = () => {
     },
   ];
   return (
-    <Section title={t('section_title')} description={t('section_description')}>
-      <div className="space-y-6">
+    <Section id="faq" title={t('section_title')} description={t('section_description')}>
+      <div className="space-y-8">
         {faqs.map((faq, idx) => (
-          <div key={idx} className="rounded-xl border border-border bg-card p-5">
-            <div className="font-semibold mb-2">{faq.question}</div>
-            <div className="text-muted-foreground">{faq.answer}</div>
+          <div key={idx} className="rounded-xl border border-border bg-card p-6 md:p-8">
+            <div className="mb-3 text-lg font-semibold leading-tight text-primary md:text-xl">
+              {faq.question}
+            </div>
+            <div className="text-base leading-relaxed text-muted md:text-lg">
+              {faq.answer}
+            </div>
           </div>
         ))}
       </div>
     </Section>
   );
-}
+};
