@@ -1,23 +1,19 @@
 import { useTranslations } from 'next-intl';
+
 import { Section } from '@/features/landing/Section';
 
 export const Hero = () => {
   const t = useTranslations('Hero');
   return (
-    <Section className="py-36 bg-background">
+    <Section className="flex min-h-screen items-center justify-center bg-background pt-20">
       <div className="text-center">
-        <h1 className="text-5xl font-bold tracking-tight text-primary">
+        <h1 className="mx-auto max-w-5xl text-5xl font-bold leading-tight tracking-tight text-primary md:text-6xl">
           {t('title')}
         </h1>
-        <p className="mx-auto mt-5 max-w-screen-md text-xl text-muted">
+        <p className="mx-auto mt-8 max-w-screen-md text-xl leading-relaxed text-muted md:text-2xl">
           {t('description')}
         </p>
-        <div className="mt-8 flex justify-center gap-x-5 gap-y-3 max-sm:flex-col">
-          <a className="rounded bg-primary px-8 py-3 text-lg font-semibold text-white shadow transition hover:bg-primary-dark" href="#demo">
-            {t('primary_button')}
-          </a>
-        </div>
       </div>
     </Section>
   );
-}
+};

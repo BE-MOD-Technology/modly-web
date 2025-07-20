@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+
 import { Section } from '@/features/landing/Section';
 
 export const Pricing = () => {
@@ -11,9 +12,9 @@ export const Pricing = () => {
       features: [
         '3 Sosyal Medya Hesabı',
         'Temel Raporlama',
-        'E-posta Desteği'
+        'E-posta Desteği',
       ],
-      cta: t('button_text')
+      cta: t('button_text'),
     },
     {
       name: t('premium_plan_name'),
@@ -23,9 +24,9 @@ export const Pricing = () => {
         '10 Sosyal Medya Hesabı',
         'Gelişmiş Raporlama',
         'Alarm Sistemi',
-        'Öncelikli Destek'
+        'Öncelikli Destek',
       ],
-      cta: t('button_text')
+      cta: t('button_text'),
     },
     {
       name: t('enterprise_plan_name'),
@@ -35,10 +36,10 @@ export const Pricing = () => {
         'Sınırsız Hesap',
         'Özel Entegrasyonlar',
         '7/24 Destek',
-        'Özel Eğitim'
+        'Özel Eğitim',
       ],
-      cta: t('button_text')
-    }
+      cta: t('button_text'),
+    },
   ];
   return (
     <Section title={t('section_title')} description={t('section_description')}>
@@ -47,11 +48,13 @@ export const Pricing = () => {
           <div key={idx} className="rounded-xl border border-border bg-background-card p-8">
             <h3 className="text-xl font-bold text-primary">{plan.name}</h3>
             <p className="mt-2 text-muted">{plan.description}</p>
-            <div className="mt-4 text-3xl font-bold text-text">{plan.price}<span className="text-lg font-normal text-muted">/ay</span></div>
+            <div className="mt-4 text-3xl font-bold text-text">
+              {plan.price}
+              <span className="text-lg font-normal text-muted">/ay</span>
+            </div>
             <ul className="mt-6 space-y-3">
               {plan.features.map((f, i) => (
                 <li key={i} className="flex items-center text-text">
-                  <span className="mr-2 text-success">✓</span>
                   {f}
                 </li>
               ))}
@@ -64,4 +67,4 @@ export const Pricing = () => {
       </div>
     </Section>
   );
-}
+};

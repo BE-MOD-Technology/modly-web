@@ -18,120 +18,167 @@
   },
   "Hero": {
     "follow_twitter": "Follow @ModlyMe on Twitter",
-    "title": "The perfect social media tracking solution for agencies and brands.",
-    "description": "Real-time social media engagement tracking, centralized reporting, and alert system for agencies and brands.",
-    "primary_button": "Request Demo",
-    "secondary_button": "Learn More"
+    "title": "What's Being Said About Your Brand on Social Media? You're About to Take Control.",
+    "description": "Modly.me instantly captures every comment, feedback, and crisis signal related to your brand. It automatically analyzes, reports, and keeps you one step ahead. Digital communication is no longer left to chance."
+  },
+  "About": {
+    "section_title": "Who We Are",
+    "main_title": "Your Intelligent Social Listening Assistant That Safeguards Your Brand Reputation.",
+    "description": "Designed for agencies, brands, and media teams, Modly.me aggregates social media interactions on a centralized platform, analyzes them intelligently, and delivers actionable reports. With real-time monitoring, intuitive visualization, automated alert systems, and multi-language support, it elevates your digital presence to the highest level."
   },
   "Sponsors": {
     "title": "Supported Platforms"
   },
   "Features": {
-    "section_subtitle": "Features",
-    "section_title": "Unlock the Full Potential of Social Media Management",
-    "section_description": "Comprehensive social media engagement tracking and reporting solution for professional teams.",
-    "feature1_title": "Multi-Platform Integration",
-    "feature2_title": "Real-Time Tracking",
-    "feature3_title": "Centralized Logging",
-    "feature4_title": "Advanced Analytics",
-    "feature5_title": "Automated Reporting",
-    "feature6_title": "Alert System",
-    "feature_description": "Professional social media management with real-time tracking, automated reporting, and comprehensive analytics."
+    "section_subtitle": "Our Capabilities",
+    "section_title": "Take Full Control of Digital Communication",
+    "section_description": "Monitor social media interactions in real-time, receive automated insights, and proactively manage potential crises.",
+    "feature1_title": "Real-Time Monitoring",
+    "feature1_description": "We detect comments the moment they're posted, even before you see them. While your competitors rely on manual reporting, you stay ahead with instant tracking.",
+    "feature2_title": "Transform Interaction Data into Insights",
+    "feature2_description": "Charts, tables, intelligent filters... Empower your decision-making process through comprehensive data visualization.",
+    "feature3_title": "Automated Reporting",
+    "feature3_description": "Keep your team informed with detailed daily email reports. Stop spending time creating reports—let the reports come to you.",
+    "feature4_title": "Intelligent Alert System",
+    "feature4_description": "Keywords like 'complaint,' 'terrible,' or 'scandal' detected? The system notifies you instantly. Address issues before they escalate into crises.",
+    "feature5_title": "Multi-Language Support",
+    "feature5_description": "English, German, French, and more. A global solution for global brands.",
+    "feature6_title": "Enterprise-Grade Security",
+    "feature6_description": "GDPR/KVKK compliance, and complete data privacy. Modly.me is built for serious organizations like yours.",
+    "feature_description": "Professional social media management with real-time monitoring, automated reporting, alert systems, and multi-language support."
   },
-  "Pricing": {
-    "section_subtitle": "Pricing",
-    "section_title": "Choose the Perfect Plan for Your Business",
-    "section_description": "Flexible pricing plans designed for agencies and brands of all sizes.",
-    "button_text": "Get Started",
-    "free_plan_name": "Starter",
-    "premium_plan_name": "Professional",
-    "enterprise_plan_name": "Enterprise",
-    "free_plan_description": "For small teams",
-    "premium_plan_description": "For agencies and brands",
-    "enterprise_plan_description": "For large organizations"
+  "Benefits": {
+    "section_title": "Key Benefits",
+    "benefit1": "Enhanced operational efficiency and significant time savings",
+    "benefit2": "Proactive crisis management and reputation protection",
+    "benefit3": "Strategic decision-making support",
+    "benefit4": "Global accessibility with localized user experience",
+    "benefit5": "Complete automation of manual data collection and classification",
+    "benefit6": "Rapid response to critical content and enhanced team focus"
   },
-  "PricingPlan": {
-    "feature_team_member": "{number} Social Media Accounts",
-    "feature_website": "{number} Reports per Month",
-    "feature_storage": "{number} GB Data Storage",
-    "feature_transfer": "{number} API Calls",
-    "feature_email_support": "Email Support",
-    "plan_interval_month": "month",
-    "plan_interval_year": "year",
-    "next_renew_date": "Your subscription renews on {date}"
+  "TargetAudience": {
+    "section_title": "Who Is It Designed For?",
+    "audience1": "Agencies managing multiple client accounts",
+    "audience2": "Brand managers committed to protecting digital reputation",
+    "audience3": "Marketing professionals seeking actionable insights from user interactions",
+    "audience4": "Media monitoring and crisis prevention teams"
+  },
+  "MissingOut": {
+    "section_title": "What Are You Missing Out On?",
+    "main_question": "What conversations are happening about your brand when you're not monitoring?",
+    "question1": "Did a customer express disappointment?",
+    "question2": "Did your competitor's post receive more engagement than yours?",
+    "question3": "Has a silent crisis grown into a trending issue?",
+    "conclusion": "Modly.me catches these developments for you. You simply decide how to respond."
+  },
+  "CuriosityQuestions": {
+    "section_title": "Capture Interactions",
+    "question1": "How many negative comments did you receive today?",
+    "question2": "Which piece of content generated the most engagement?",
+    "question3": "What would a 5-minute delay in crisis response cost you?",
+    "conclusion": "Discover what you're missing with Modly.me. Manage what you discover."
+  },
+  "DataInsights": {
+    "section_title": "Data to Decisions",
+    "insight1": "72% of comments are posted after 9:00 PM.",
+    "insight2": "Negative content is predominantly shared on Monday mornings.",
+    "insight3": "A customer posted the same complaint across 3 different posts.",
+    "conclusion1": "These insights will be exclusively yours to leverage.",
+    "conclusion2": "With Modly.me, your data becomes your competitive advantage."
+  },
+  "CrisisDrama": {
+    "section_title": "Crisis Analytics",
+    "scenario1": "Imagine discovering a trending complaint 6 hours after it started.",
+    "scenario2": "An influencer posts negative content about your brand, and you're unaware.",
+    "reality": "Crises unfold in minutes, but recovery takes weeks.",
+    "solution1": "Modly.me monitors every mention.",
+    "solution2": "It identifies crisis signals before you do."
+  },
+  "DecisionSupport": {
+    "section_title": "Insights",
+    "question1": "Need compelling data for your weekly presentation?",
+    "question2": "Must you demonstrate campaign impact to leadership?",
+    "question3": "Seeking evidence to support your KPIs?",
+    "conclusion": "Modly.me isn't just a monitoring tool—it's your strategic decision-making partner."
+  },
+  "ClosingStatements": {
+    "statement1": "If you want actionable insights, not just more data, you've found the right solution.",
+    "statement2": "Transform overwhelming data into strategic decisions with Modly.me.",
+    "statement3": "Capture opportunities, not just comments.",
+    "statement4": "People talk. We listen. You lead."
+  },
+  "Contact": {
+    "section_title": "Contact",
+    "description": "Get in touch with us and let us answer your questions.",
+    "email_label": "Email"
   },
   "FAQ": {
     "section_title": "Frequently Asked Questions",
     "section_description": "Find answers to common questions about Modly.me.",
     "q1": "Which social media platforms are supported?",
-    "a1": "We support popular platforms such as Instagram, Facebook, Twitter, and LinkedIn with real-time data integration.",
+    "a1": "We support popular platforms including Instagram, Facebookwith seamless real-time data integration.",
     "q2": "How are reports delivered?",
-    "a2": "Reports are automatically sent to your specified email address.",
-    "q3": "How is security and privacy ensured?",
-    "a3": "All data is encrypted with AES-256, and GDPR compliance is ensured.",
-    "q4": "How does multilingual support work?",
-    "a4": "The interface is available in multiple languages, including Turkish and English."
-  },
-  "CTA": {
-    "title": "Ready to get started?",
-    "description": "Join thousands of agencies and brands using Modly.me for their social media management.",
-    "button_text": "Request Demo"
+    "a2": "Reports are automatically delivered to your designated email address on your preferred schedule.",
+    "q3": "How are security and privacy ensured?",
+    "a3": "All data is protected and full GDPR/KVKK compliance is maintained.",
+    "q4": "How does multi-language support function?",
+    "a4": "The platform interface is available in multiple languages, with primary support for Turkish and English."
   },
   "Footer": {
     "product": "Product",
-    "docs": "Docs",
+    "docs": "Documentation",
     "blog": "Blog",
     "community": "Community",
     "company": "Company",
-    "terms_of_service": "Terms Of Service",
+    "terms_of_service": "Terms of Service",
     "privacy_policy": "Privacy Policy",
     "designed_by": "Designed by <author>Modly.me</author>.",
     "copyright": "© 2024 Modly.me. All rights reserved.",
     "website": "modly.me"
   },
   "ProtectFallback": {
-    "not_enough_permission": "You do not have the permissions to perform this action"
+    "not_enough_permission": "You do not have sufficient permissions to perform this action"
   },
   "SignIn": {
-    "meta_title": "Sign in",
-    "meta_description": "Seamlessly sign in to your account with our user-friendly login process."
+    "meta_title": "Sign In",
+    "meta_description": "Access your account seamlessly with our user-friendly authentication process."
   },
   "SignUp": {
-    "meta_title": "Sign up",
-    "meta_description": "Effortlessly create an account through our intuitive sign-up process."
+    "meta_title": "Sign Up",
+    "meta_description": "Create your account effortlessly through our intuitive registration process."
   },
   "DashboardLayout": {
     "home": "Home",
-    "todos": "Todos",
+    "todos": "Tasks",
     "members": "Members",
     "billing": "Billing",
     "settings": "Settings"
   },
   "Dashboard": {
     "meta_title": "Modly.me Dashboard",
-    "meta_description": "Professional social media management dashboard with real-time tracking and analytics."
+    "meta_description": "Professional social media management dashboard with real-time monitoring and comprehensive analytics."
   },
   "DashboardIndex": {
     "title_bar": "Dashboard",
     "title_bar_description": "Welcome to your dashboard",
-    "message_state_title": "Let's get started",
+    "message_state_title": "Let's Get Started",
     "message_state_description": "You can customize this page by editing the file at <code>dashboard/page.tsx</code>",
     "message_state_button": "Request Demo",
-    "message_state_alternative": "Want more features using the same stack? Try <url></url>."
+    "message_state_alternative": "Want more features using the same technology stack? Try <url></url>."
   },
   "UserProfile": {
     "title_bar": "User Profile",
-    "title_bar_description": "View and manage your user profile"
+    "title_bar_description": "View and manage your user profile settings"
   },
   "OrganizationProfile": {
     "title_bar": "Organization Management",
-    "title_bar_description": "Manage your organization"
+    "title_bar_description": "Manage your organization settings and preferences"
   },
   "Billing": {
     "title_bar": "Billing",
-    "title_bar_description": "Manage your billing and subscription",
+    "title_bar_description": "Manage your billing and subscription preferences",
     "current_section_title": "Current Plan",
-    "current_section_description": "Adjust your payment plan to best suit your requirements",
+    "current_section_description": "Customize your payment plan to perfectly match your requirements",
     "manage_subscription_button": "Manage Subscription"
   },
   "BillingOptions": {
@@ -140,17 +187,17 @@
   },
   "CheckoutConfirmation": {
     "title_bar": "Payment Confirmation",
-    "message_state_title": "Payment successful",
+    "message_state_title": "Payment Successful",
     "message_state_description": "Your payment has been successfully processed. Thank you for your purchase!",
-    "message_state_button": "Go back to Billing"
+    "message_state_button": "Return to Billing"
   },
   "DataTable": {
-    "no_results": "No results."
+    "no_results": "No results found."
   },
   "Todos": {
-    "title_bar": "Todo List",
-    "title_bar_description": "View and manage your todo list",
-    "add_todo_button": "New todo"
+    "title_bar": "Task List",
+    "title_bar_description": "View and manage your task list",
+    "add_todo_button": "New Task"
   },
   "TodoTableColumns": {
     "open_menu": "Open menu",
@@ -158,40 +205,23 @@
     "delete": "Delete",
     "title_header": "Title",
     "message_header": "Message",
-    "created_at_header": "Created at"
+    "created_at_header": "Created At"
   },
   "AddTodo": {
-    "title_bar": "Add Todo",
-    "add_todo_section_title": "Create a new todo",
-    "add_todo_section_description": "Fill in the form below to create a new todo"
+    "title_bar": "Add Task",
+    "add_todo_section_title": "Create a New Task",
+    "add_todo_section_description": "Complete the form below to create a new task"
   },
   "EditTodo": {
-    "title_bar": "Edit todo",
-    "edit_todo_section_title": "Modify todo",
-    "edit_todo_section_description": "Fill in the form below to edit the todo"
+    "title_bar": "Edit Task",
+    "edit_todo_section_title": "Modify Task",
+    "edit_todo_section_description": "Complete the form below to update the task"
   },
   "TodoForm": {
     "title_label": "Title",
-    "title_description": "Enter a descriptive title for your todo.",
+    "title_description": "Enter a descriptive title for your task.",
     "message_title": "Message",
-    "message_description": "Enter a detailed message for your todo.",
+    "message_description": "Enter a detailed description for your task.",
     "submit_button": "Submit"
-  },
-  "Benefits": {
-    "section_title": "Benefits",
-    "benefit1": "Operational efficiency and time saving",
-    "benefit2": "Crisis management and reputation control",
-    "benefit3": "Strategic decision support",
-    "benefit4": "Global accessibility and localized user experience",
-    "benefit5": "Automation of manual data collection and classification processes",
-    "benefit6": "Quick action on critical content and team focus"
-  },
-  "TargetAudience": {
-    "section_title": "Target Audience",
-    "audience1": "Digital Marketing and Advertising Agencies",
-    "audience2": "Brand and Corporate Communication Teams",
-    "audience3": "Social Media Experts and Community Managers",
-    "audience4": "International Social Media and Analytics Companies",
-    "audience5": "Media Monitoring and Crisis Management Units"
   }
 }

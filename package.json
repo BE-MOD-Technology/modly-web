@@ -3,7 +3,7 @@
   "version": "1.7.6",
   "scripts": {
     "dev:spotlight": "spotlight-sidecar",
-    "dev:next": "next dev",
+    "dev:next": "NODE_OPTIONS='--max-old-space-size=4096' next dev",
     "dev": "run-p dev:*",
     "build": "next build",
     "start": "next start",

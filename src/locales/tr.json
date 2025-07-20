@@ -18,26 +18,33 @@
   },
   "Hero": {
     "follow_twitter": "@ModlyMe'yi Twitter'da takip edin",
-    "title": "Modly.me Çok Dilli Sosyal Medya Etkileşim Takip ve Raporlama Yazılımı",
-    "description": "Ajanslar ve markalar için gerçek zamanlı sosyal medya etkileşim takibi, merkezi raporlama ve alarm sistemi. Çoklu dil desteğiyle global pazara uygun, güvenli ve otomatik raporlama özellikli profesyonel çözüm.",
-    "primary_button": "Demo Talep Et",
-    "secondary_button": "Daha Fazla Bilgi"
+    "title": "Sosyal Medyada Ne Konuşuluyor? Artık Siz Belirleyeceksiniz.",
+    "description": "Modly.me, markanıza gelen tüm yorumları, geri bildirimleri ve kriz sinyallerini anlık olarak yakalar. Otomatik analiz eder, raporlar ve sizi bir adım öne geçirir. Dijital iletişim artık rastlantılara bırakılmaz."
+  },
+  "About": {
+    "section_title": "Biz Kimiz?",
+    "main_title": "Marka İtibarınızı Koruyan Akıllı Sosyal Dinleme Asistanınız.",
+    "description": "Ajanslar, markalar ve medya ekipleri için geliştirilen Modly.me, sosyal medya etkileşimlerini merkezi bir platformda toplar, anlamlandırır ve size hazır raporlar halinde sunar. Gerçek zamanlı takip, sezgisel görselleştirme, otomatik uyarı sistemleri ve çoklu dil desteğiyle dijital görünürlüğünüzü en üst seviyeye taşır."
   },
   "Sponsors": {
     "title": "Desteklenen Platformlar"
   },
   "Features": {
-    "section_subtitle": "Özellikler",
-    "section_title": "Sosyal Medya Yönetiminin Tam Potansiyelini Keşfedin",
-    "section_description": "Modly.me, ajanslar ve markalar için sosyal medya hesaplarındaki etkileşimleri gerçek zamanlı takip eder, merkezi olarak loglar, analiz eder ve otomatik raporlar sunar. Anahtar kelime bazlı alarm sistemi ve çoklu dil desteğiyle global erişim sağlar.",
-    "feature1_title": "Çoklu Sosyal Medya Hesap Bağlantısı",
-    "feature2_title": "Gerçek Zamanlı Etkileşim Takibi",
-    "feature3_title": "Merkezi Loglama ve Güçlü Arama",
-    "feature4_title": "Grafiksel Dashboard ve Görselleştirme",
-    "feature5_title": "Otomatik ve Kişiselleştirilebilir Raporlama",
-    "feature6_title": "Anahtar Kelime Bazlı Alarm ve Uyarı Sistemi",
-    "feature7_title": "Çoklu Dil Desteği (TR, EN, DE, FR, IT)",
-    "feature8_title": "Güvenli ve GDPR/KVKK Uyumlu Altyapı",
+    "section_subtitle": "Yeteneklerimiz",
+    "section_title": "Dijital İletişimi Kontrol Altına Alın",
+    "section_description": "Sosyal medya etkileşimlerini gerçek zamanlı takip edin, otomatik analiz alın ve krizlere proaktif müdahale edin.",
+    "feature1_title": "Gerçek Zamanlı İzleme",
+    "feature1_description": "Yorumlar geldiği anda sizden önce biz görürüz. Rakipleriniz hâlâ manuel rapor alırken, siz gelişmeleri anlık takip edin.",
+    "feature2_title": "Etkileşim Verilerini Anlamlı Kılın",
+    "feature2_description": "Grafikler, tablolar, akıllı filtreler... İçgörüleri görselleştirerek karar alma sürecinizi güçlendirin.",
+    "feature3_title": "Otomatik Raporlama",
+    "feature3_description": "Her sabah gelen detaylı e-postalarla ekibiniz güncel kalsın. Rapor üretmek için zaman harcamayın, raporlar size gelsin.",
+    "feature4_title": "Akıllı Uyarı Sistemi",
+    "feature4_description": "Şikayet, berbat, skandal gibi kelimeler mi geçti? Sistem sizi anında uyarır. Kriz doğmadan müdahale edin.",
+    "feature5_title": "Çok Dilli Destek",
+    "feature5_description": "İngilizce, Almanca, Fransızca ve daha fazlası. Global markalar için global çözüm.",
+    "feature6_title": "Kurumsal Güvenlik",
+    "feature6_description": "GDPR/KVKK uyumluluğu ve tam veri gizliliği. Modly.me, sizin gibi ciddi yapılar için tasarlandı.",
     "feature_description": "Gerçek zamanlı takip, otomatik raporlama, alarm sistemi ve çoklu dil desteğiyle profesyonel sosyal medya yönetimi."
   },
   "Benefits": {
@@ -50,29 +57,72 @@
     "benefit6": "Kritik içeriklerde hızlı aksiyon ve ekip odaklanması"
   },
   "TargetAudience": {
-    "section_title": "Hedef Kitle",
-    "audience1": "Dijital Pazarlama ve Reklam Ajansları",
-    "audience2": "Marka ve Kurumsal İletişim Ekipleri",
-    "audience3": "Sosyal Medya Uzmanları ve Topluluk Yöneticileri",
-    "audience4": "Uluslararası Sosyal Medya ve Analiz Şirketleri",
-    "audience5": "Medya Takip ve Kriz Yönetimi Birimleri"
+    "section_title": "Kimler için tasarlandı?",
+    "audience1": "Çok hesap yöneten ajanslar",
+    "audience2": "Marka itibarını dijitalde korumak isteyen yöneticiler",
+    "audience3": "Kullanıcı etkileşimlerinden içgörü çıkarmak isteyen pazarlamacılar",
+    "audience4": "Medya takibi ve kriz önleme ekipleri"
+  },
+  "MissingOut": {
+    "section_title": "Neyi Kaçırıyorsunuz?",
+    "main_question": "Siz ekran başında olmadığınızda markanız hakkında neler konuşuluyor?",
+    "question1": "Bir müşteri \"Hayal kırıklığına uğradım.\" dedi mi?",
+    "question2": "Rakibinizin postu sizininkinden daha mı çok yorum aldı?",
+    "question3": "Sessiz kalan bir kriz, büyüyüp gündem oldu mu?",
+    "conclusion": "Modly.me, bunları sizin yerinize fark eder. Siz sadece karar verin."
+  },
+  "CuriosityQuestions": {
+    "section_title": "Etkileşimleri Yakalayın",
+    "question1": "Bugün kaç olumsuz yorum aldınız?",
+    "question2": "Hangi içeriğiniz en çok geri dönüş aldı?",
+    "question3": "Krize 5 dakika geç kalmak size kaça mal olurdu?",
+    "conclusion": "Modly.me ile bilmediklerinizi görün. Gördüklerinizi yönetin."
+  },
+  "DataInsights": {
+    "section_title": "Veriden Karara",
+    "insight1": "Yorumların %72'si gece 21.00'den sonra geliyor.",
+    "insight2": "Olumsuz içerikler en çok Pazartesi sabahı paylaşılıyor.",
+    "insight3": "Bir müşteriniz 3 farklı gönderiye aynı şikayeti yazdı.",
+    "conclusion1": "Bu içgörüleri bilmek sadece size özel olacak.",
+    "conclusion2": "Modly.me ile veriler artık sessiz değil."
+  },
+  "CrisisDrama": {
+    "section_title": "Kriz Analitiği",
+    "scenario1": "Trend olmuş bir şikayeti 6 saat sonra gördüğünüzü düşünün.",
+    "scenario2": "Bir influencer negatif yorum yaptı ve siz hâlâ bilmiyorsunuz.",
+    "reality": "Krizler anlıktır, geri dönüşler haftalar sürer.",
+    "solution1": "Modly.me, her kelimeyi dinler.",
+    "solution2": "Sizin yerinize kriz izlerini yakalar."
+  },
+  "DecisionSupport": {
+    "section_title": "İç Gözlemler",
+    "question1": "Haftalık sunuma veri mi lazım?",
+    "question2": "Kampanya etkisi yönetime mi anlatılacak?",
+    "question3": "KPI'lar için kanıt mı arıyorsunuz?",
+    "conclusion": "Modly.me, sadece izleyen değil; karar aldıran bir sistemdir."
+  },
+  "ClosingStatements": {
+    "statement1": "Daha fazla veri değil, daha fazla içgörü istiyorsanız doğru yerdesiniz.",
+    "statement2": "Modly.me ile veri yığınlarını anlamlı kararlara dönüştürün.",
+    "statement3": "Yorumları değil, fırsatları yakalayın.",
+    "statement4": "İnsanlar konuşur. Biz dinleriz. Siz yönetirsiniz."
+  },
+  "Contact": {
+    "section_title": "İletişim",
+    "description": "Bizimle iletişime geçin ve sorularınızı yanıtlayalım.",
+    "email_label": "E-posta"
   },
   "FAQ": {
     "section_title": "Sıkça Sorulan Sorular",
     "section_description": "Modly.me hakkında sıkça sorulan soruların yanıtlarını burada bulabilirsiniz.",
     "q1": "Hangi sosyal medya platformları destekleniyor?",
-    "a1": "Instagram, Facebook, Twitter ve LinkedIn gibi popüler platformlar desteklenmektedir.",
+    "a1": "Instagram, Facebook gibi popüler platformlar desteklenmektedir.",
     "q2": "Raporlar nasıl iletiliyor?",
     "a2": "Raporlar, belirlediğiniz e-posta adresine otomatik olarak gönderilir.",
     "q3": "Güvenlik ve gizlilik nasıl sağlanıyor?",
-    "a3": "Tüm veriler AES-256 ile şifrelenir, GDPR ve KVKK uyumluluğu sağlanır.",
+    "a3": "GDPR ve KVKK uyumluluğu sağlanır.",
     "q4": "Çoklu dil desteği nasıl çalışıyor?",
     "a4": "Arayüz Türkçe ve İngilizce başta olmak üzere birden fazla dilde kullanılabilir."
-  },
-  "CTA": {
-    "title": "Başlamaya hazır mısınız?",
-    "description": "Sosyal medya yönetimi için Modly.me kullanan binlerce ajans ve markaya katılın.",
-    "button_text": "Demo Talep Et"
   },
   "Footer": {
     "product": "Ürün",
@@ -173,17 +223,5 @@
     "message_title": "Mesaj",
     "message_description": "Göreviniz için detaylı bir mesaj girin.",
     "submit_button": "Gönder"
-  },
-  "Pricing": {
-    "section_subtitle": "Fiyatlandırma",
-    "section_title": "İşletmeniz için Mükemmel Planı Seçin",
-    "section_description": "Her ölçekten ajans ve marka için esnek fiyatlandırma planları.",
-    "button_text": "Başlayın",
-    "free_plan_name": "Başlangıç",
-    "premium_plan_name": "Profesyonel",
-    "enterprise_plan_name": "Kurumsal",
-    "free_plan_description": "Küçük ekipler için",
-    "premium_plan_description": "Ajanslar ve markalar için",
-    "enterprise_plan_description": "Büyük organizasyonlar için"
   }
-} 
+}
