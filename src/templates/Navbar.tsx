@@ -27,6 +27,14 @@ export const Navbar = () => {
         <a href="#features" className="text-base transition-colors hover:text-primary md:text-lg">{t('features')}</a>
         <a href="#faq" className="text-base transition-colors hover:text-primary md:text-lg">{t('faq')}</a>
         <a href="#contact" className="text-base transition-colors hover:text-primary md:text-lg">{t('contact')}</a>
+        <a
+          href="https://dashboard.modly.me/signin"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90 md:text-base"
+        >
+          {t('sign_in')}
+        </a>
         <LocaleSwitcher />
       </div>
     </nav>
