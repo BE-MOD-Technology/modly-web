@@ -17,11 +17,6 @@
     "contact": "İletişim",
     "demo_request": "Demo İste"
   },
-  "Hero": {
-    "follow_twitter": "@ModlyMe'yi Twitter'da takip edin",
-    "title": "Sosyal Medyada Ne Konuşuluyor? Artık Siz Belirleyeceksiniz.",
-    "description": "Modly.me, markanıza gelen tüm yorumları, geri bildirimleri ve kriz sinyallerini anlık olarak yakalar. Otomatik analiz eder, raporlar ve sizi bir adım öne geçirir. Dijital iletişim artık rastlantılara bırakılmaz."
-  },
   "About": {
     "section_title": "Biz Kimiz?",
     "main_title": "Marka İtibarınızı Koruyan Akıllı Sosyal Dinleme Asistanınız.",

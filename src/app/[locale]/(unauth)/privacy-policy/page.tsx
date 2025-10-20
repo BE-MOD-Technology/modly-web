@@ -27,13 +27,13 @@ export default function PrivacyPolicy(props: { params: { locale: string } }) {
   const t = useTranslations('PrivacyPolicy');
 
   const renderContentWithLinks = (content: string) => {
-    const parts = content.split(/(https?:\/\/[^\s]+|[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})/g);
-    
-    return parts.map((part, index) => {
+    const parts = content.split(/(https?:\/\/\S+|[\w.%-]+@[\w.-]+\.[a-z]{2,})/gi);
+
+    return parts.map((part, idx) => {
       if (part.match(/^https?:\/\//)) {
         return (
           <a
-            key={index}
+            key={`link-${idx}`}
             href={part}
             target="_blank"
             rel="noopener noreferrer"
@@ -42,10 +42,11 @@ export default function PrivacyPolicy(props: { params: { locale: string } }) {
             {part}
           </a>
         );
-      } else if (part.match(/^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/)) {
+      }
+      else if (part.match(/^[\w.%-]+@[\w.-]+\.[a-z]{2,}$/i)) {
         return (
           <a
-            key={index}
+            key={`email-${idx}`}
             href={`mailto:${part}`}
             className="font-medium text-[#7588A1] underline transition-colors hover:text-white"
           >
@@ -106,4 +107,3 @@ export default function PrivacyPolicy(props: { params: { locale: string } }) {
     </div>
   );
 }
-

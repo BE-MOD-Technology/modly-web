@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+
 import { Link } from '@/libs/i18nNavigation';
 
 export const Footer = () => {

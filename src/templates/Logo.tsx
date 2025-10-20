@@ -1,4 +1,5 @@
 import Image from 'next/image';
+
 import { AppConfig } from '@/utils/AppConfig';
 
 export const Logo = (props: { isTextHidden?: boolean }) => (

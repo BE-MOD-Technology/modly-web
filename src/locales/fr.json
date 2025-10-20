@@ -17,11 +17,6 @@
     "contact": "Contact",
     "demo_request": "Demander une Démo"
   },
-  "Hero": {
-    "follow_twitter": "Suivez @ModlyMe sur Twitter",
-    "title": "Que Dit-on de Votre Marque sur les Réseaux Sociaux ? Vous Allez Enfin Prendre le Contrôle.",
-    "description": "Modly.me capture instantanément chaque commentaire, retour et signal de crise concernant votre marque. Il analyse automatiquement, génère des rapports et vous garde une longueur d'avance. La communication digitale n'est plus laissée au hasard."
-  },
   "About": {
     "section_title": "Qui Sommes-Nous",
     "main_title": "Votre Assistant Intelligent d'Écoute Sociale Qui Protège la Réputation de Votre Marque.",

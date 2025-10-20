@@ -59,7 +59,7 @@ export default async function RootLayout(props: {
   // which dynamically adds a `style` attribute to the body tag.
   return (
     <html lang={props.params.locale} suppressHydrationWarning>
-      <body className={`${inter.variable} font-sans bg-background text-foreground antialiased`} suppressHydrationWarning>
+      <body className={`${inter.variable} bg-background font-sans text-foreground antialiased`} suppressHydrationWarning>
         {/* PRO: Dark mode support for Shadcn UI */}
         <NextIntlClientProvider
           locale={props.params.locale}
