@@ -14,7 +14,6 @@ export const Hero = () => {
       <div className="relative z-10 w-full">
         <VortexDemo />
       </div>
-      
       {/* Supported Platforms Section */}
       <div className="relative z-10 w-full">
         <SupportedPlatforms />

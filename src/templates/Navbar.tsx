@@ -23,7 +23,22 @@ export const Navbar = () => {
         className="flex items-center transition-opacity hover:opacity-80"
         aria-label="Modly.me"
       >
-        <Image src="/modly-icon.png" alt="Modly.me" width={60} height={60} priority />
+        <Image
+          src="/logo 140x60.png"
+          alt="Modly.me"
+          width={140}
+          height={60}
+          priority
+          className="hidden md:block"
+        />
+        <Image
+          src="/logo 70x30.png"
+          alt="Modly.me"
+          width={70}
+          height={30}
+          priority
+          className="block md:hidden"
+        />
       </button>
       <div className="flex items-center gap-8">
         <a href="#features" className="text-base transition-colors hover:text-[#7588A1] md:text-lg">{t('features')}</a>
