@@ -1,12 +1,12 @@
 import '@/styles/global.css';
 
 import type { Metadata } from 'next';
+import { Inter } from 'next/font/google';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, unstable_setRequestLocale } from 'next-intl/server';
-import { Inter } from 'next/font/google';
 
-// import { DemoBadge } from '@/components/DemoBadge';
 import { AllLocales } from '@/utils/AppConfig';
+// import { DemoBadge } from '@/components/DemoBadge';
 
 const inter = Inter({
   subsets: ['latin'],

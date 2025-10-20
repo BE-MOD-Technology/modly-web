@@ -10,7 +10,7 @@ export const Section = (props: {
 }) => (
   <div className={cn('w-full px-4 py-16', props.className)} id={props.id}>
     {(props.title || props.subtitle || props.description) && (
-      <div className="w-full mb-16 text-center">
+      <div className="mb-16 w-full text-center">
         {props.subtitle && (
           <div className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-clip-text text-base font-bold uppercase tracking-wider text-transparent">
             {props.subtitle}

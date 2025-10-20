@@ -33,7 +33,7 @@ export default function PrivacyPolicy(props: { params: { locale: string } }) {
       if (part.match(/^https?:\/\//)) {
         return (
           <a
-            key={`link-${idx}`}
+            key={`link-${part}-${idx}`}
             href={part}
             target="_blank"
             rel="noopener noreferrer"
@@ -43,10 +43,10 @@ export default function PrivacyPolicy(props: { params: { locale: string } }) {
           </a>
         );
       }
-      else if (part.match(/^[\w.%-]+@[\w.-]+\.[a-z]{2,}$/i)) {
+      if (part.match(/^[\w.%-]+@[\w.-]+\.[a-z]{2,}$/i)) {
         return (
           <a
-            key={`email-${idx}`}
+            key={`email-${part}-${idx}`}
             href={`mailto:${part}`}
             className="font-medium text-[#7588A1] underline transition-colors hover:text-white"
           >
