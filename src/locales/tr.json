@@ -250,5 +250,25 @@
     "cta_title": "Hemen Başlayın",
     "cta_description": "Dashboard'a giderek markanızı yönetmeye ve sosyal medya etkileşimlerinizi analiz etmeye başlayın.",
     "cta_button": "Dashboard'a Git"
+  },
+  "PrivacyPolicy": {
+    "meta_title": "Gizlilik Politikası - modly.me",
+    "meta_description": "modly.me gizlilik politikası ve kişisel veri koruma uygulamaları.",
+    "title": "Gizlilik Politikası",
+    "last_updated": "Son Güncelleme: 14 Ekim 2025",
+    "publisher": "Yayınlayan: modly.me",
+    "intro": "modly.me olarak gizliliğinize büyük önem veriyoruz. Bu gizlilik politikası, platformumuzun Meta (Instagram Graph API) üzerinden elde ettiği verilerin nasıl toplandığını, kullanıldığını ve korunduğunu açıklar.",
+    "section1_title": "1. Toplanan Veriler",
+    "section1_content": "modly.me, yalnızca kullanıcıların açık izniyle aşağıdaki verilere erişebilir:\n\nInstagram kullanıcı kimliği (user ID) ve sayfa kimliği (page ID)\n\nProfil ve sayfa bilgileri (kullanıcı adı, profil resmi, sayfa adı vb.)\n\nGönderi içerikleri, yorumlar ve beğeniler\n\nGönderi etkileşim istatistikleri (beğeni sayısı, yorum sayısı, erişim verileri)\n\nYetkilendirme sürecinde alınan erişim jetonları (access tokens)\n\nUygulama şifre, kredi kartı bilgisi veya özel kişisel verileri kesinlikle toplamaz.",
+    "section2_title": "2. Verilerin Kullanım Amacı",
+    "section2_content": "Toplanan veriler yalnızca şu amaçlarla kullanılmaktadır:\n\nKullanıcının sosyal medya içeriklerini ve yorumlarını yönetmek\n\nİçerik planlama, analiz ve moderasyon işlemlerini yürütmek\n\nPerformans ve etkileşim raporları oluşturmak\n\nKullanıcı deneyimini geliştirmek\n\nToplanan veriler üçüncü taraflarla paylaşılmaz, satılmaz ve yalnızca uygulamanın sunduğu hizmetleri sağlamak amacıyla kullanılır.",
+    "section3_title": "3. Veri Saklama ve Güvenlik",
+    "section3_content": "Tüm kullanıcı verileri güvenli sunucularda şifrelenmiş biçimde saklanır. Erişim jetonları (access tokens) yalnızca aktif oturum süresince tutulur ve süresi dolduğunda otomatik olarak iptal edilir.\n\nKullanıcılar, diledikleri zaman tüm verilerinin ve hesap bilgilerinin silinmesini talep edebilirler. Talepler için iletişim adresi: privacy@modly.me",
+    "section4_title": "4. Üçüncü Taraf Hizmetler",
+    "section4_content": "modly.me, Instagram Graph API aracılığıyla veri alır ve bu süreçte Meta Platforms, Inc. altyapısını kullanır. Meta'nın gizlilik politikası şu adresten incelenebilir: https://privacycenter.instagram.com/policy",
+    "section5_title": "5. Kullanıcı Hakları",
+    "section5_content": "Kullanıcılar aşağıdaki haklara sahiptir:\n\nKişisel verilerine erişim talep etme\n\nVerilerinin düzeltilmesini veya silinmesini isteme\n\nVerdikleri izni diledikleri zaman geri çekme\n\nTüm talepler için: privacy@modly.me",
+    "section6_title": "6. Değişiklikler",
+    "section6_content": "modly.me, yasal düzenlemeler veya hizmet gereksinimleri doğrultusunda bu politikayı güncelleyebilir. Tüm değişiklikler bu sayfada yayımlandığı anda geçerlilik kazanır."
   }
 }

@@ -250,5 +250,25 @@
     "cta_title": "Commencez Maintenant",
     "cta_description": "Accédez au tableau de bord pour commencer à gérer votre marque et analyser vos interactions sur les réseaux sociaux.",
     "cta_button": "Aller au Tableau de Bord"
+  },
+  "PrivacyPolicy": {
+    "meta_title": "Politique de Confidentialité - modly.me",
+    "meta_description": "Politique de confidentialité et pratiques de protection des données personnelles de modly.me.",
+    "title": "Politique de Confidentialité",
+    "last_updated": "Dernière mise à jour : 14 octobre 2025",
+    "publisher": "Publié par : modly.me",
+    "intro": "Chez modly.me, nous accordons une grande importance à votre vie privée. Cette politique de confidentialité explique comment les données obtenues par notre plateforme via Meta (Instagram Graph API) sont collectées, utilisées et protégées.",
+    "section1_title": "1. Données Collectées",
+    "section1_content": "modly.me ne peut accéder aux données suivantes qu'avec le consentement explicite de l'utilisateur :\n\nIdentifiant utilisateur Instagram (user ID) et identifiant de page (page ID)\n\nInformations de profil et de page (nom d'utilisateur, photo de profil, nom de page, etc.)\n\nContenu des publications, commentaires et mentions j'aime\n\nStatistiques d'engagement des publications (nombre de mentions j'aime, commentaires, données de portée)\n\nJetons d'accès obtenus lors du processus d'autorisation\n\nL'application ne collecte pas de mots de passe, d'informations de carte de crédit ou de données personnelles sensibles.",
+    "section2_title": "2. Finalité de l'Utilisation des Données",
+    "section2_content": "Les données collectées sont utilisées uniquement aux fins suivantes :\n\nGérer le contenu et les commentaires des médias sociaux de l'utilisateur\n\nEffectuer des opérations de planification, d'analyse et de modération de contenu\n\nGénérer des rapports de performance et d'engagement\n\nAméliorer l'expérience utilisateur\n\nLes données collectées ne sont pas partagées avec des tiers, ne sont pas vendues et sont utilisées uniquement pour fournir les services offerts par l'application.",
+    "section3_title": "3. Stockage et Sécurité des Données",
+    "section3_content": "Toutes les données utilisateur sont stockées de manière cryptée sur des serveurs sécurisés. Les jetons d'accès ne sont conservés que pendant les sessions actives et sont automatiquement révoqués à leur expiration.\n\nLes utilisateurs peuvent demander la suppression de toutes leurs données et informations de compte à tout moment. Pour les demandes, contactez : privacy@modly.me",
+    "section4_title": "4. Services Tiers",
+    "section4_content": "modly.me reçoit des données via l'API Instagram Graph et utilise l'infrastructure de Meta Platforms, Inc. dans ce processus. La politique de confidentialité de Meta peut être consultée à : https://privacycenter.instagram.com/policy",
+    "section5_title": "5. Droits des Utilisateurs",
+    "section5_content": "Les utilisateurs ont les droits suivants :\n\nDemander l'accès à leurs données personnelles\n\nDemander la correction ou la suppression de leurs données\n\nRetirer leur consentement à tout moment\n\nPour toutes les demandes : privacy@modly.me",
+    "section6_title": "6. Modifications",
+    "section6_content": "modly.me peut mettre à jour cette politique conformément aux réglementations légales ou aux exigences du service. Toutes les modifications entrent en vigueur dès leur publication sur cette page."
   }
 }

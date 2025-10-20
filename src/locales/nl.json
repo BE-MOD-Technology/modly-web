@@ -250,5 +250,25 @@
     "cta_title": "Begin Nu",
     "cta_description": "Ga naar het dashboard om je merk te beheren en je sociale media-interacties te analyseren.",
     "cta_button": "Ga naar Dashboard"
+  },
+  "PrivacyPolicy": {
+    "meta_title": "Privacybeleid - modly.me",
+    "meta_description": "modly.me privacybeleid en praktijken voor de bescherming van persoonlijke gegevens.",
+    "title": "Privacybeleid",
+    "last_updated": "Laatst bijgewerkt: 14 oktober 2025",
+    "publisher": "Gepubliceerd door: modly.me",
+    "intro": "Bij modly.me hechten we grote waarde aan uw privacy. Dit privacybeleid legt uit hoe gegevens die door ons platform worden verkregen via Meta (Instagram Graph API) worden verzameld, gebruikt en beschermd.",
+    "section1_title": "1. Verzamelde Gegevens",
+    "section1_content": "modly.me heeft alleen toegang tot de volgende gegevens met expliciete toestemming van de gebruiker:\n\nInstagram gebruikers-ID en pagina-ID\n\nProfiel- en pagina-informatie (gebruikersnaam, profielfoto, paginanaam, etc.)\n\nBerichtinhoud, reacties en vind-ik-leuks\n\nEngagementstatistieken van berichten (aantal vind-ik-leuks, reacties, bereikgegevens)\n\nToegangstokens verkregen tijdens het autorisatieproces\n\nDe applicatie verzamelt geen wachtwoorden, creditcardinformatie of gevoelige persoonlijke gegevens.",
+    "section2_title": "2. Doel van Gegevensgebruik",
+    "section2_content": "De verzamelde gegevens worden uitsluitend gebruikt voor de volgende doeleinden:\n\nBeheren van social media-inhoud en reacties van de gebruiker\n\nUitvoeren van inhoudplanning, analyse en moderatie\n\nGenereren van prestatie- en engagementrapporten\n\nVerbeteren van de gebruikerservaring\n\nVerzamelde gegevens worden niet gedeeld met derden, niet verkocht en worden alleen gebruikt om de diensten aan te bieden die door de applicatie worden geboden.",
+    "section3_title": "3. Gegevensopslag en Beveiliging",
+    "section3_content": "Alle gebruikersgegevens worden versleuteld opgeslagen op beveiligde servers. Toegangstokens worden alleen bewaard tijdens actieve sessies en worden automatisch ingetrokken bij het verlopen.\n\nGebruikers kunnen op elk moment verzoeken om verwijdering van al hun gegevens en accountinformatie. Voor verzoeken, neem contact op: privacy@modly.me",
+    "section4_title": "4. Diensten van Derden",
+    "section4_content": "modly.me ontvangt gegevens via Instagram Graph API en gebruikt de infrastructuur van Meta Platforms, Inc. in dit proces. Het privacybeleid van Meta kan worden geraadpleegd op: https://privacycenter.instagram.com/policy",
+    "section5_title": "5. Gebruikersrechten",
+    "section5_content": "Gebruikers hebben de volgende rechten:\n\nToegang vragen tot hun persoonlijke gegevens\n\nCorrectie of verwijdering van hun gegevens vragen\n\nHun toestemming op elk moment intrekken\n\nVoor alle verzoeken: privacy@modly.me",
+    "section6_title": "6. Wijzigingen",
+    "section6_content": "modly.me kan dit beleid bijwerken in overeenstemming met wettelijke voorschriften of dienstvereisten. Alle wijzigingen worden van kracht zodra ze op deze pagina zijn gepubliceerd."
   }
 }

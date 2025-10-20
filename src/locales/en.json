@@ -250,5 +250,25 @@
     "cta_title": "Get Started Now",
     "cta_description": "Go to the dashboard to start managing your brand and analyzing your social media interactions.",
     "cta_button": "Go to Dashboard"
+  },
+  "PrivacyPolicy": {
+    "meta_title": "Privacy Policy - modly.me",
+    "meta_description": "modly.me privacy policy and personal data protection practices.",
+    "title": "Privacy Policy",
+    "last_updated": "Last Updated: October 14, 2025",
+    "publisher": "Published by: modly.me",
+    "intro": "At modly.me, we highly value your privacy. This privacy policy explains how data obtained by our platform through Meta (Instagram Graph API) is collected, used, and protected.",
+    "section1_title": "1. Data Collected",
+    "section1_content": "modly.me can only access the following data with explicit user consent:\n\nInstagram user ID and page ID\n\nProfile and page information (username, profile picture, page name, etc.)\n\nPost content, comments, and likes\n\nPost engagement statistics (number of likes, comments, reach data)\n\nAccess tokens obtained during the authorization process\n\nThe application does not collect passwords, credit card information, or sensitive personal data.",
+    "section2_title": "2. Purpose of Data Usage",
+    "section2_content": "The collected data is used solely for the following purposes:\n\nManaging user's social media content and comments\n\nConducting content planning, analysis, and moderation operations\n\nGenerating performance and engagement reports\n\nImproving user experience\n\nCollected data is not shared with third parties, not sold, and is used only to provide the services offered by the application.",
+    "section3_title": "3. Data Storage and Security",
+    "section3_content": "All user data is stored encrypted on secure servers. Access tokens are kept only during active sessions and are automatically revoked when expired.\n\nUsers can request deletion of all their data and account information at any time. For requests, contact: privacy@modly.me",
+    "section4_title": "4. Third-Party Services",
+    "section4_content": "modly.me receives data through Instagram Graph API and uses Meta Platforms, Inc. infrastructure in this process. Meta's privacy policy can be reviewed at: https://privacycenter.instagram.com/policy",
+    "section5_title": "5. User Rights",
+    "section5_content": "Users have the following rights:\n\nRequest access to their personal data\n\nRequest correction or deletion of their data\n\nWithdraw their consent at any time\n\nFor all requests: privacy@modly.me",
+    "section6_title": "6. Changes",
+    "section6_content": "modly.me may update this policy in accordance with legal regulations or service requirements. All changes take effect as soon as they are published on this page."
   }
 }
