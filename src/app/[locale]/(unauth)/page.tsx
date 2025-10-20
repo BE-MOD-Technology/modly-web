@@ -8,7 +8,6 @@ import { BenefitsAndAudience } from '@/templates/BenefitsAndAudience';
 // import { DemoBanner } from '@/templates/DemoBanner';
 import { Contact } from '@/templates/Contact';
 import { FAQ } from '@/templates/FAQ';
-import { Features } from '@/templates/Features';
 import { Footer } from '@/templates/Footer';
 import { Hero } from '@/templates/Hero';
 import { Navbar } from '@/templates/Navbar';
@@ -43,7 +42,6 @@ const IndexPage = (props: { params: { locale: string } }) => {
       <Hero />
       {/* <Sponsors /> */}
       <About />
-      <Features />
       <BenefitsAndAudience />
       <MissingOut />
       <CuriosityQuestions />

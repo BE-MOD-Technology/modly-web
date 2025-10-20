@@ -14,7 +14,8 @@
     "features": "Özellikler",
     "pricing": "Fiyatlandırma",
     "faq": "SSS",
-    "contact": "İletişim"
+    "contact": "İletişim",
+    "demo_request": "Demo İste"
   },
   "Hero": {
     "follow_twitter": "@ModlyMe'yi Twitter'da takip edin",
@@ -110,7 +111,12 @@
   "Contact": {
     "section_title": "İletişim",
     "description": "Bizimle iletişime geçin ve sorularınızı yanıtlayalım.",
-    "email_label": "E-posta"
+    "email_label": "E-posta",
+    "form_title": "Bizimle İletişime Geçin",
+    "name_placeholder": "Adınız",
+    "email_placeholder": "E-posta Adresiniz",
+    "message_placeholder": "Mesajınız",
+    "submit_button": "Mesaj Gönder"
   },
   "FAQ": {
     "section_title": "Sıkça Sorulan Sorular",
@@ -223,5 +229,26 @@
     "message_title": "Mesaj",
     "message_description": "Göreviniz için detaylı bir mesaj girin.",
     "submit_button": "Gönder"
+  },
+  "SupportedPlatforms": {
+    "title": "Desteklenen Platformlar",
+    "description": "Sosyal medya hesaplarınızı tek yerden takip edin ve yönetin",
+    "coming_soon": "Yakında"
+  },
+  "Hero": {
+    "title": "Sosyal Medyada Ne Konuşuluyor? Artık Siz Belirleyeceksiniz.",
+    "description": "Modly.me, markanıza gelen tüm yorumları, geri bildirimleri ve kriz sinyallerini anlık olarak yakalar. Otomatik analiz eder, raporlar ve sizi bir adım öne geçirir.",
+    "email_placeholder": "E-posta adresinizi girin",
+    "start_button": "Başla",
+    "email_consent": "E-posta adresinizi girerek Modly'den e-postalar almayı kabul ediyorsunuz.",
+    "stat1_number": "10,000+",
+    "stat1_label": "Aktif kullanıcı",
+    "stat2_number": "500,000+",
+    "stat2_label": "Geçen ay yayınlanan gönderi",
+    "stat3_number": "8",
+    "stat3_label": "Desteklenen sosyal platform",
+    "cta_title": "Hemen Başlayın",
+    "cta_description": "Dashboard'a giderek markanızı yönetmeye ve sosyal medya etkileşimlerinizi analiz etmeye başlayın.",
+    "cta_button": "Dashboard'a Git"
   }
 }

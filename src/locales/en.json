@@ -14,7 +14,8 @@
     "features": "Features",
     "pricing": "Pricing",
     "faq": "FAQ",
-    "contact": "Contact"
+    "contact": "Contact",
+    "demo_request": "Request Demo"
   },
   "Hero": {
     "follow_twitter": "Follow @ModlyMe on Twitter",
@@ -110,7 +111,12 @@
   "Contact": {
     "section_title": "Contact",
     "description": "Get in touch with us and let us answer your questions.",
-    "email_label": "Email"
+    "email_label": "Email",
+    "form_title": "Get in Touch with Us",
+    "name_placeholder": "Your Name",
+    "email_placeholder": "Your Email Address",
+    "message_placeholder": "Your Message",
+    "submit_button": "Send Message"
   },
   "FAQ": {
     "section_title": "Frequently Asked Questions",
@@ -223,5 +229,26 @@
     "message_title": "Message",
     "message_description": "Enter a detailed description for your task.",
     "submit_button": "Submit"
+  },
+  "SupportedPlatforms": {
+    "title": "Supported Platforms",
+    "description": "Track and manage your social media accounts from one place",
+    "coming_soon": "Coming Soon"
+  },
+  "Hero": {
+    "title": "What's Being Said on Social Media? Now You'll Decide.",
+    "description": "Modly.me instantly captures all comments, feedback, and crisis signals about your brand. It automatically analyzes, reports, and keeps you one step ahead.",
+    "email_placeholder": "Enter your email address",
+    "start_button": "Get Started",
+    "email_consent": "By entering your email address, you agree to receive emails from Modly.",
+    "stat1_number": "10,000+",
+    "stat1_label": "Active users",
+    "stat2_number": "500,000+",
+    "stat2_label": "Posts published last month",
+    "stat3_number": "8",
+    "stat3_label": "Supported social platforms",
+    "cta_title": "Get Started Now",
+    "cta_description": "Go to the dashboard to start managing your brand and analyzing your social media interactions.",
+    "cta_button": "Go to Dashboard"
   }
 }

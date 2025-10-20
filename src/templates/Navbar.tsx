@@ -1,5 +1,6 @@
 'use client';
 
+import Image from 'next/image';
 import { useTranslations } from 'next-intl';
 
 import { LocaleSwitcher } from '@/components/LocaleSwitcher';
@@ -15,18 +16,22 @@ export const Navbar = () => {
   };
 
   return (
-    <nav className="fixed inset-x-0 top-0 z-50 flex items-center justify-between border-b border-border bg-background/95 px-6 py-4 text-text backdrop-blur-md">
+    <nav className="fixed inset-x-0 top-0 z-50 flex items-center justify-between border-b border-gray-800 bg-black/95 px-6 py-4 text-white backdrop-blur-md">
       <button
         type="button"
         onClick={scrollToTop}
-        className="text-2xl font-bold tracking-tight text-primary transition-opacity hover:opacity-80 md:text-3xl"
+        className="flex items-center transition-opacity hover:opacity-80"
+        aria-label="Modly.me"
       >
-        Modly.me
+        <Image src="/modly-icon.png" alt="Modly.me" width={60} height={60} priority />
       </button>
-      <div className="flex items-center gap-6">
-        <a href="#features" className="text-base transition-colors hover:text-primary md:text-lg">{t('features')}</a>
-        <a href="#faq" className="text-base transition-colors hover:text-primary md:text-lg">{t('faq')}</a>
-        <a href="#contact" className="text-base transition-colors hover:text-primary md:text-lg">{t('contact')}</a>
+      <div className="flex items-center gap-8">
+        <a href="#features" className="text-base transition-colors hover:text-[#7588A1] md:text-lg">{t('features')}</a>
+        <a href="#faq" className="text-base transition-colors hover:text-[#7588A1] md:text-lg">{t('faq')}</a>
+        <a href="#contact" className="text-base transition-colors hover:text-[#7588A1] md:text-lg">{t('contact')}</a>
+        <button className="rounded-lg bg-gradient-to-r from-[#676767] to-[#32527B] px-6 py-2 text-sm font-semibold text-white transition-all duration-300 hover:scale-105 hover:from-[#828387] hover:to-[#4E6D96]">
+          {t('demo_request')}
+        </button>
         <LocaleSwitcher />
       </div>
     </nav>

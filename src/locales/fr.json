@@ -14,7 +14,8 @@
     "features": "Fonctionnalités",
     "pricing": "Tarifs",
     "faq": "FAQ",
-    "contact": "Contact"
+    "contact": "Contact",
+    "demo_request": "Demander une Démo"
   },
   "Hero": {
     "follow_twitter": "Suivez @ModlyMe sur Twitter",
@@ -110,7 +111,12 @@
   "Contact": {
     "section_title": "Contact",
     "description": "Contactez-nous et laissez-nous répondre à vos questions.",
-    "email_label": "E-mail"
+    "email_label": "E-mail",
+    "form_title": "Contactez-nous",
+    "name_placeholder": "Votre Nom",
+    "email_placeholder": "Votre Adresse E-mail",
+    "message_placeholder": "Votre Message",
+    "submit_button": "Envoyer le Message"
   },
   "FAQ": {
     "section_title": "Questions Fréquemment Posées",
@@ -223,5 +229,26 @@
     "message_title": "Message",
     "message_description": "Entrez une description détaillée pour votre tâche.",
     "submit_button": "Soumettre"
+  },
+  "SupportedPlatforms": {
+    "title": "Plateformes Prises en Charge",
+    "description": "Suivez et gérez vos comptes de médias sociaux depuis un seul endroit",
+    "coming_soon": "Bientôt Disponible"
+  },
+  "Hero": {
+    "title": "Que se dit-il sur les réseaux sociaux ? C'est vous qui décidez maintenant.",
+    "description": "Modly.me capture instantanément tous les commentaires, retours et signaux de crise concernant votre marque. Il analyse automatiquement, rapporte et vous garde une longueur d'avance.",
+    "email_placeholder": "Entrez votre adresse e-mail",
+    "start_button": "Commencer",
+    "email_consent": "En entrant votre adresse e-mail, vous acceptez de recevoir des e-mails de Modly.",
+    "stat1_number": "10 000+",
+    "stat1_label": "Utilisateurs actifs",
+    "stat2_number": "500 000+",
+    "stat2_label": "Publications publiées le mois dernier",
+    "stat3_number": "8",
+    "stat3_label": "Plateformes sociales prises en charge",
+    "cta_title": "Commencez Maintenant",
+    "cta_description": "Accédez au tableau de bord pour commencer à gérer votre marque et analyser vos interactions sur les réseaux sociaux.",
+    "cta_button": "Aller au Tableau de Bord"
   }
 }

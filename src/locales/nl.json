@@ -1,0 +1,254 @@
+{
+  "Index": {
+    "meta_title": "Modly.me - Meertalige Sociale Media Engagement Tracking en Rapportage Software",
+    "meta_description": "Real-time sociale media engagement tracking, gecentraliseerde rapportage en waarschuwingssysteem voor agentschappen en merken."
+  },
+  "Navbar": {
+    "sign_in": "Inloggen",
+    "sign_up": "Registreren",
+    "product": "Product",
+    "docs": "Documentatie",
+    "blog": "Blog",
+    "community": "Gemeenschap",
+    "company": "Bedrijf",
+    "features": "Functies",
+    "pricing": "Prijzen",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "demo_request": "Demo Aanvragen"
+  },
+  "Hero": {
+    "follow_twitter": "Volg @ModlyMe op Twitter",
+    "title": "Wat Wordt Er Over Uw Merk Gezegd op Sociale Media? U Gaat Nu de Controle Nemen.",
+    "description": "Modly.me vangt onmiddellijk elke opmerking, feedback en crisissignaal op die betrekking heeft op uw merk. Het analyseert automatisch, rapporteert en houdt u een stap voor. Digitale communicatie wordt niet langer aan het toeval overgelaten."
+  },
+  "About": {
+    "section_title": "Wie Zijn Wij",
+    "main_title": "Uw Intelligente Sociale Luisterassistent Die Uw Merkreputatie Beschermt.",
+    "description": "Ontworpen voor agentschappen, merken en mediateams, verzamelt Modly.me sociale media-interacties op een gecentraliseerd platform, analyseert ze intelligent en levert bruikbare rapporten. Met real-time monitoring, intuïtieve visualisatie, geautomatiseerde waarschuwingssystemen en meertalige ondersteuning verhoogt het uw digitale aanwezigheid naar het hoogste niveau."
+  },
+  "Sponsors": {
+    "title": "Ondersteunde Platforms"
+  },
+  "Features": {
+    "section_subtitle": "Onze Mogelijkheden",
+    "section_title": "Neem Volledige Controle Over Digitale Communicatie",
+    "section_description": "Monitor sociale media-interacties in real-time, ontvang geautomatiseerde inzichten en beheer potentiële crises proactief.",
+    "feature1_title": "Real-Time Monitoring",
+    "feature1_description": "We detecteren opmerkingen zodra ze worden geplaatst, zelfs voordat u ze ziet. Terwijl uw concurrenten vertrouwen op handmatige rapportage, blijft u voorop met directe tracking.",
+    "feature2_title": "Transformeer Interactiegegevens in Inzichten",
+    "feature2_description": "Grafieken, tabellen, intelligente filters... Versterk uw besluitvormingsproces door uitgebreide gegevensvisualisatie.",
+    "feature3_title": "Geautomatiseerde Rapportage",
+    "feature3_description": "Houd uw team op de hoogte met gedetailleerde dagelijkse e-mailrapporten. Stop met tijd besteden aan het maken van rapporten—laat de rapporten naar u komen.",
+    "feature4_title": "Intelligent Waarschuwingssysteem",
+    "feature4_description": "Trefwoorden zoals 'klacht', 'verschrikkelijk' of 'schandaal' gedetecteerd? Het systeem waarschuwt u onmiddellijk. Pak problemen aan voordat ze escaleren tot crises.",
+    "feature5_title": "Meertalige Ondersteuning",
+    "feature5_description": "Nederlands, Engels, Duits, Frans en meer. Een wereldwijde oplossing voor wereldwijde merken.",
+    "feature6_title": "Enterprise-Grade Beveiliging",
+    "feature6_description": "GDPR/KVKK-naleving en volledige gegevensprivacy. Modly.me is gebouwd voor serieuze organisaties zoals de uwe.",
+    "feature_description": "Professioneel sociale media beheer met real-time monitoring, geautomatiseerde rapportage, waarschuwingssystemen en meertalige ondersteuning."
+  },
+  "Benefits": {
+    "section_title": "Belangrijkste Voordelen",
+    "benefit1": "Verbeterde operationele efficiëntie en aanzienlijke tijdsbesparing",
+    "benefit2": "Proactief crisismanagement en reputatiebescherming",
+    "benefit3": "Strategische besluitvormingsondersteuning",
+    "benefit4": "Wereldwijde toegankelijkheid met gelokaliseerde gebruikerservaring",
+    "benefit5": "Volledige automatisering van handmatige gegevensverzameling en classificatie",
+    "benefit6": "Snelle reactie op kritieke content en verbeterde teamfocus"
+  },
+  "TargetAudience": {
+    "section_title": "Voor Wie Is Het Ontworpen?",
+    "audience1": "Agentschappen die meerdere klantaccounts beheren",
+    "audience2": "Merkenmanagers die vastbesloten zijn om digitale reputatie te beschermen",
+    "audience3": "Marketingprofessionals die bruikbare inzichten zoeken uit gebruikersinteracties",
+    "audience4": "Mediamonitoring en crisispreventieteams"
+  },
+  "MissingOut": {
+    "section_title": "Wat Mist U?",
+    "main_question": "Welke gesprekken vinden plaats over uw merk wanneer u niet monitort?",
+    "question1": "Heeft een klant teleurstelling uitgedrukt?",
+    "question2": "Kreeg de post van uw concurrent meer engagement dan de uwe?",
+    "question3": "Is een stille crisis uitgegroeid tot een trending onderwerp?",
+    "conclusion": "Modly.me vangt deze ontwikkelingen voor u op. U beslist gewoon hoe te reageren."
+  },
+  "CuriosityQuestions": {
+    "section_title": "Vang Interacties Op",
+    "question1": "Hoeveel negatieve opmerkingen heeft u vandaag ontvangen?",
+    "question2": "Welke content heeft de meeste engagement gegenereerd?",
+    "question3": "Wat zou een 5-minuten vertraging in crisisrespons u kosten?",
+    "conclusion": "Ontdek wat u mist met Modly.me. Beheer wat u ontdekt."
+  },
+  "DataInsights": {
+    "section_title": "Gegevens naar Beslissingen",
+    "insight1": "72% van de opmerkingen wordt na 21:00 geplaatst.",
+    "insight2": "Negatieve content wordt voornamelijk op maandagochtend gedeeld.",
+    "insight3": "Een klant plaatste dezelfde klacht op 3 verschillende posts.",
+    "conclusion1": "Deze inzichten zullen exclusief van u zijn om te benutten.",
+    "conclusion2": "Met Modly.me worden uw gegevens uw concurrentievoordeel."
+  },
+  "CrisisDrama": {
+    "section_title": "Crisis Analytics",
+    "scenario1": "Stel u voor dat u een trending klacht 6 uur na het begin ontdekt.",
+    "scenario2": "Een influencer plaatst negatieve content over uw merk, en u bent er niet van op de hoogte.",
+    "reality": "Crises ontvouwen zich in minuten, maar herstel duurt weken.",
+    "solution1": "Modly.me monitort elke vermelding.",
+    "solution2": "Het identificeert crisissignalen voordat u dat doet."
+  },
+  "DecisionSupport": {
+    "section_title": "Inzichten",
+    "question1": "Heeft u overtuigende gegevens nodig voor uw wekelijkse presentatie?",
+    "question2": "Moet u campagne-impact aantonen aan leiderschap?",
+    "question3": "Zoekt u bewijs om uw KPI's te ondersteunen?",
+    "conclusion": "Modly.me is niet alleen een monitoringtool—het is uw strategische besluitvormingspartner."
+  },
+  "ClosingStatements": {
+    "statement1": "Als u bruikbare inzichten wilt, niet alleen meer gegevens, heeft u de juiste oplossing gevonden.",
+    "statement2": "Transformeer overweldigende gegevens in strategische beslissingen met Modly.me.",
+    "statement3": "Vang kansen op, niet alleen opmerkingen.",
+    "statement4": "Mensen praten. Wij luisteren. U leidt."
+  },
+  "Contact": {
+    "section_title": "Contact",
+    "description": "Neem contact met ons op en laat ons uw vragen beantwoorden.",
+    "email_label": "E-mail",
+    "form_title": "Neem Contact Met Ons Op",
+    "name_placeholder": "Uw Naam",
+    "email_placeholder": "Uw E-mailadres",
+    "message_placeholder": "Uw Bericht",
+    "submit_button": "Bericht Verzenden"
+  },
+  "FAQ": {
+    "section_title": "Veelgestelde Vragen",
+    "section_description": "Vind antwoorden op veelgestelde vragen over Modly.me.",
+    "q1": "Welke sociale media platforms worden ondersteund?",
+    "a1": "We ondersteunen populaire platforms inclusief Instagram, Facebook met naadloze real-time gegevensintegratie.",
+    "q2": "Hoe worden rapporten geleverd?",
+    "a2": "Rapporten worden automatisch geleverd aan uw aangewezen e-mailadres volgens uw voorkeursschema.",
+    "q3": "Hoe worden beveiliging en privacy gegarandeerd?",
+    "a3": "Alle gegevens zijn beschermd en volledige GDPR/KVKK-naleving wordt gehandhaafd.",
+    "q4": "Hoe werkt meertalige ondersteuning?",
+    "a4": "Het platform-interface is beschikbaar in meerdere talen, met primaire ondersteuning voor Nederlands, Engels en Frans."
+  },
+  "Footer": {
+    "product": "Product",
+    "docs": "Documentatie",
+    "blog": "Blog",
+    "community": "Gemeenschap",
+    "company": "Bedrijf",
+    "terms_of_service": "Servicevoorwaarden",
+    "privacy_policy": "Privacybeleid",
+    "designed_by": "Ontworpen door <author>Modly.me</author>.",
+    "copyright": "© 2024 Modly.me. Alle rechten voorbehouden.",
+    "website": "modly.me"
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "U heeft onvoldoende rechten om deze actie uit te voeren"
+  },
+  "SignIn": {
+    "meta_title": "Inloggen",
+    "meta_description": "Toegang tot uw account naadloos met ons gebruiksvriendelijke authenticatieproces."
+  },
+  "SignUp": {
+    "meta_title": "Registreren",
+    "meta_description": "Maak uw account moeiteloos aan via ons intuïtieve registratieproces."
+  },
+  "DashboardLayout": {
+    "home": "Home",
+    "todos": "Taken",
+    "members": "Leden",
+    "billing": "Facturering",
+    "settings": "Instellingen"
+  },
+  "Dashboard": {
+    "meta_title": "Modly.me Dashboard",
+    "meta_description": "Professioneel sociale media beheer dashboard met real-time monitoring en uitgebreide analytics."
+  },
+  "DashboardIndex": {
+    "title_bar": "Dashboard",
+    "title_bar_description": "Welkom bij uw dashboard",
+    "message_state_title": "Laten We Beginnen",
+    "message_state_description": "U kunt deze pagina aanpassen door het bestand te bewerken op <code>dashboard/page.tsx</code>",
+    "message_state_button": "Demo Aanvragen",
+    "message_state_alternative": "Wilt u meer functies met dezelfde technologiestack? Probeer <url></url>."
+  },
+  "UserProfile": {
+    "title_bar": "Gebruikersprofiel",
+    "title_bar_description": "Bekijk en beheer uw gebruikersprofielinstellingen"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Organisatiebeheer",
+    "title_bar_description": "Beheer uw organisatie-instellingen en voorkeuren"
+  },
+  "Billing": {
+    "title_bar": "Facturering",
+    "title_bar_description": "Beheer uw facturerings- en abonnementsvoorkeuren",
+    "current_section_title": "Huidig Plan",
+    "current_section_description": "Pas uw betalingsplan aan om perfect aan te sluiten bij uw vereisten",
+    "manage_subscription_button": "Abonnement Beheren"
+  },
+  "BillingOptions": {
+    "current_plan": "Huidig Plan",
+    "upgrade_plan": "Aan de Slag"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "Betalingsbevestiging",
+    "message_state_title": "Betaling Succesvol",
+    "message_state_description": "Uw betaling is succesvol verwerkt. Bedankt voor uw aankoop!",
+    "message_state_button": "Terug naar Facturering"
+  },
+  "DataTable": {
+    "no_results": "Geen resultaten gevonden."
+  },
+  "Todos": {
+    "title_bar": "Takenlijst",
+    "title_bar_description": "Bekijk en beheer uw takenlijst",
+    "add_todo_button": "Nieuwe Taak"
+  },
+  "TodoTableColumns": {
+    "open_menu": "Menu openen",
+    "edit": "Bewerken",
+    "delete": "Verwijderen",
+    "title_header": "Titel",
+    "message_header": "Bericht",
+    "created_at_header": "Aangemaakt Op"
+  },
+  "AddTodo": {
+    "title_bar": "Taak Toevoegen",
+    "add_todo_section_title": "Maak een Nieuwe Taak",
+    "add_todo_section_description": "Vul het onderstaande formulier in om een nieuwe taak te maken"
+  },
+  "EditTodo": {
+    "title_bar": "Taak Bewerken",
+    "edit_todo_section_title": "Taak Wijzigen",
+    "edit_todo_section_description": "Vul het onderstaande formulier in om de taak bij te werken"
+  },
+  "TodoForm": {
+    "title_label": "Titel",
+    "title_description": "Voer een beschrijvende titel in voor uw taak.",
+    "message_title": "Bericht",
+    "message_description": "Voer een gedetailleerde beschrijving in voor uw taak.",
+    "submit_button": "Verzenden"
+  },
+  "SupportedPlatforms": {
+    "title": "Ondersteunde Platforms",
+    "description": "Volg en beheer je sociale media accounts vanaf één plek",
+    "coming_soon": "Binnenkort"
+  },
+  "Hero": {
+    "title": "Wat wordt er gezegd op sociale media? Nu bepaal jij het.",
+    "description": "Modly.me vangt direct alle opmerkingen, feedback en crisissignalen over je merk op. Het analyseert automatisch, rapporteert en houdt je een stap voor.",
+    "email_placeholder": "Voer je e-mailadres in",
+    "start_button": "Beginnen",
+    "email_consent": "Door je e-mailadres in te voeren, ga je akkoord met het ontvangen van e-mails van Modly.",
+    "stat1_number": "10.000+",
+    "stat1_label": "Actieve gebruikers",
+    "stat2_number": "500.000+",
+    "stat2_label": "Berichten gepubliceerd vorige maand",
+    "stat3_number": "8",
+    "stat3_label": "Ondersteunde sociale platforms",
+    "cta_title": "Begin Nu",
+    "cta_description": "Ga naar het dashboard om je merk te beheren en je sociale media-interacties te analyseren.",
+    "cta_button": "Ga naar Dashboard"
+  }
+}

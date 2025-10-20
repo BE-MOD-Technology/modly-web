@@ -1,23 +1,28 @@
+import Image from 'next/image';
 import { AppConfig } from '@/utils/AppConfig';
 
-export const Logo = (props: {
-  isTextHidden?: boolean;
-}) => (
+export const Logo = (props: { isTextHidden?: boolean }) => (
   <div className="flex items-center text-xl font-semibold">
-    <svg
-      className="mr-1 size-8 stroke-current stroke-2"
-      xmlns="http://www.w3.org/2000/svg"
-      viewBox="0 0 24 24"
-      fill="none"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-    >
-      <path d="M0 0h24v24H0z" stroke="none" />
-      <rect x="3" y="12" width="6" height="8" rx="1" />
-      <rect x="9" y="8" width="6" height="12" rx="1" />
-      <rect x="15" y="4" width="6" height="16" rx="1" />
-      <path d="M4 20h14" />
-    </svg>
-    {!props.isTextHidden && AppConfig.name}
+    <Image
+      src="/modly-icon.png"
+      alt="Modly logo"
+      width={32}
+      height={32}
+      className="mr-1"
+      priority
+    />
+    {!props.isTextHidden && (
+      <div className="flex items-center">
+        <Image
+          src="/modlyme-bg.png"
+          alt={AppConfig.name}
+          width={96}
+          height={24}
+          className="hidden sm:inline-block"
+          priority
+        />
+        <span className="sm:hidden">{AppConfig.name}</span>
+      </div>
+    )}
   </div>
 );

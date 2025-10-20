@@ -17,6 +17,7 @@ export const AppConfig = {
       name: 'Türkçe',
     },
     { id: 'fr', name: 'Français' },
+    { id: 'nl', name: 'Nederlands' },
   ],
   defaultLocale: 'en',
   localePrefix,

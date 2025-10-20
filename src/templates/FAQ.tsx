@@ -1,9 +1,11 @@
+"use client";
 import { useTranslations } from 'next-intl';
-
-import { Section } from '@/features/landing/Section';
+import { useState } from 'react';
 
 export const FAQ = () => {
   const t = useTranslations('FAQ');
+  const [openIndex, setOpenIndex] = useState<number | null>(null);
+
   const faqs = [
     {
       question: t('q1'),
@@ -22,20 +24,60 @@ export const FAQ = () => {
       answer: t('a4'),
     },
   ];
+
+  const toggleFAQ = (index: number) => {
+    setOpenIndex(openIndex === index ? null : index);
+  };
+
   return (
-    <Section id="faq" title={t('section_title')} description={t('section_description')}>
-      <div className="space-y-8">
-        {faqs.map((faq, idx) => (
-          <div key={idx} className="rounded-xl border border-border bg-card p-6 md:p-8">
-            <div className="mb-3 text-lg font-semibold leading-tight text-primary md:text-xl">
-              {faq.question}
+    <section id="faq" className="w-full px-4 py-16 bg-black">
+      <div className="w-full">
+        <div className="text-center mb-12">
+          <h2 className="mb-6 text-center text-base font-semibold uppercase tracking-wider text-[#7588A1] md:text-lg">
+            {t('section_title')}
+          </h2>
+          <p className="text-lg leading-relaxed text-neutral-400 md:text-xl max-w-4xl mx-auto">
+            {t('section_description')}
+          </p>
+        </div>
+
+        <div className="max-w-4xl mx-auto space-y-4">
+          {faqs.map((faq, idx) => (
+            <div 
+              key={idx} 
+              className="relative overflow-hidden rounded-2xl border-2 border-[#676767]/30 bg-gradient-to-br from-zinc-900/90 to-zinc-800/70 backdrop-blur-sm transition-all duration-300 hover:border-[#32527B]/50"
+            >
+              {/* Gradient Background */}
+              <div className="absolute inset-0 opacity-20 bg-gradient-to-br from-[#676767]/20 via-[#828387]/20 to-[#32527B]/20 rounded-2xl" />
+              
+              <button
+                onClick={() => toggleFAQ(idx)}
+                className="relative z-10 w-full p-6 text-left transition-all duration-300 hover:bg-black/20"
+              >
+                <div className="flex items-center justify-between">
+                  <h3 className="text-lg font-semibold text-white md:text-xl pr-4">
+                    {faq.question}
+                  </h3>
+                  <div className={`transform transition-transform duration-300 ${openIndex === idx ? 'rotate-180' : ''}`}>
+                    <svg className="w-6 h-6 text-[#7588A1]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </div>
+                </div>
+              </button>
+              
+              <div className={`relative z-10 overflow-hidden transition-all duration-300 ${openIndex === idx ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'}`}>
+                <div className="px-6 pb-6">
+                  <div className="h-px bg-gradient-to-r from-transparent via-[#676767]/30 to-transparent mb-4" />
+                  <p className="text-base leading-relaxed text-neutral-400 md:text-lg">
+                    {faq.answer}
+                  </p>
+                </div>
+              </div>
             </div>
-            <div className="text-base leading-relaxed text-muted md:text-lg">
-              {faq.answer}
-            </div>
-          </div>
-        ))}
+          ))}
+        </div>
       </div>
-    </Section>
+    </section>
   );
 };
