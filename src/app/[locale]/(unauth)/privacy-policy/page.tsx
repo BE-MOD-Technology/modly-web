@@ -1,9 +1,20 @@
 import type { Metadata } from 'next';
 import { useTranslations } from 'next-intl';
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, unstable_setRequestLocale } from 'next-intl/server';
 
-export async function generateMetadata(): Promise<Metadata> {
-  const t = await getTranslations('PrivacyPolicy');
+import { AllLocales } from '@/utils/AppConfig';
+
+export function generateStaticParams() {
+  return AllLocales.map(locale => ({ locale }));
+}
+
+export async function generateMetadata(props: {
+  params: { locale: string };
+}): Promise<Metadata> {
+  const t = await getTranslations({
+    locale: props.params.locale,
+    namespace: 'PrivacyPolicy',
+  });
 
   return {
     title: t('meta_title'),
@@ -11,7 +22,8 @@ export async function generateMetadata(): Promise<Metadata> {
   };
 }
 
-export default function PrivacyPolicy() {
+export default function PrivacyPolicy(props: { params: { locale: string } }) {
+  unstable_setRequestLocale(props.params.locale);
   const t = useTranslations('PrivacyPolicy');
 
   const renderContentWithLinks = (content: string) => {
