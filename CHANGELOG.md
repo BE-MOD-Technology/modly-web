@@ -1,3 +1,10 @@
+# 1.0.0 (2025-10-20)
+
+
+### Features
+
+* add turkish localization and improve modly.me landing page ([1f90e2f](https://github.com/BE-MOD-Technology/modly-web/commit/1f90e2ffeefac2f9c9489f5b5df17b605221e2e2))
+
 ## [1.7.6](https://github.com/ixartz/SaaS-Boilerplate/compare/v1.7.5...v1.7.6) (2025-05-01)
 
 
